@@ -1,0 +1,23 @@
+Debugger listening on ws://127.0.0.1:9334/f874f6ba-b0f0-47b8-a080-910a606fba7f
+For help, see: https://nodejs.org/en/docs/inspector
+(node:19566) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ready listeners added to [HighLevelProducer]. Use emitter.setMaxListeners() to increase limit
+(node:19566) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 event.error listeners added to [HighLevelProducer]. Use emitter.setMaxListeners() to increase limit
+Debugger listening on ws://127.0.0.1:9334/073e3e35-c6d8-4d0e-b1c6-5467a8a84afc
+For help, see: https://nodejs.org/en/docs/inspector
+(node:27454) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ready listeners added to [HighLevelProducer]. Use emitter.setMaxListeners() to increase limit
+(node:27454) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 event.error listeners added to [HighLevelProducer]. Use emitter.setMaxListeners() to increase limit
+Debugger listening on ws://127.0.0.1:9334/284a978b-b0ba-486a-8bfc-0ed91fbb04df
+For help, see: https://nodejs.org/en/docs/inspector
+(node:30669) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ready listeners added to [HighLevelProducer]. Use emitter.setMaxListeners() to increase limit
+(node:30669) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 event.error listeners added to [HighLevelProducer]. Use emitter.setMaxListeners() to increase limit
+TypeError: Cannot read property 'nickname' of undefined
+    at /var/app/src/services/reward_service.js:1586:45
+    at next (/var/app/node_modules/neo-async/async.js:7361:13)
+    at /var/app/src/services/reward_service.js:1559:17
+    at tryCatcher (/var/app/node_modules/standard-as-callback/built/utils.js:11:23)
+    at /var/app/node_modules/standard-as-callback/built/index.js:19:49
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Debugger listening on ws://127.0.0.1:9334/c4f50983-88f5-404b-9cbb-30dab105b8a6
+For help, see: https://nodejs.org/en/docs/inspector
+(node:3549) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ready listeners added to [HighLevelProducer]. Use emitter.setMaxListeners() to increase limit
+(node:3549) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 event.error listeners added to [HighLevelProducer]. Use emitter.setMaxListeners() to increase limit

@@ -1,0 +1,31 @@
+{
+  "name": "log-agent",
+  "version": "0.7.0",
+  "description": "用于监听日志文件变动，并根据需求进行筛选、上报 kafka 或者报警",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha -t 5000  test/**/*.test.js test/*.test.js",
+    "lint": "eslint src test *.js",
+    "doc": "jsdoc2md src/LogAgent.js > docs/api.md",
+    "coverage": "nyc report --reporter=html",
+    "ci": "npm run test && npm run coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:yunnysunny/log-agent.git"
+  },
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^5.2.0",
+    "nyc": "^11.6.0"
+  },
+  "author": "yunnysunny",
+  "license": "MIT",
+  "optionalDependencies": {
+    "jsdoc-to-markdown": "^7.1.1"
+  }
+}

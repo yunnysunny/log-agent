@@ -1,0 +1,2316 @@
+2017-08-09 15:18:27: ===============================================================================
+2017-08-09 15:18:27: --- New PM2 Daemon started ----------------------------------------------------
+2017-08-09 15:18:27: Time                 : Wed Aug 09 2017 15:18:27 GMT+0800 (CST)
+2017-08-09 15:18:27: PM2 version          : 2.6.1
+2017-08-09 15:18:27: Node.js version      : 6.11.2
+2017-08-09 15:18:27: Current arch         : x64
+2017-08-09 15:18:27: PM2 home             : /root/.pm2
+2017-08-09 15:18:27: PM2 PID file         : /root/.pm2/pm2.pid
+2017-08-09 15:18:27: RPC socket file      : /root/.pm2/rpc.sock
+2017-08-09 15:18:27: BUS socket file      : /root/.pm2/pub.sock
+2017-08-09 15:18:27: Application log path : /root/.pm2/logs
+2017-08-09 15:18:27: Process dump file    : /root/.pm2/dump.pm2
+2017-08-09 15:18:27: Concurrent actions   : 2
+2017-08-09 15:18:27: SIGTERM timeout      : 1600
+2017-08-09 15:18:27: ===============================================================================
+2017-08-09 15:21:42: Starting execution sequence in -fork mode- for app name:pm2-logrotate id:0
+2017-08-09 15:21:42: App name:pm2-logrotate id:0 online
+2017-08-09 15:21:43: Stopping app:pm2-logrotate id:0
+2017-08-09 15:21:43: App [pm2-logrotate] with id [0] and pid [113662], exited with code [0] via signal [SIGINT]
+2017-08-09 15:21:43: pid=113662 msg=process killed
+2017-08-09 15:21:43: Starting execution sequence in -fork mode- for app name:pm2-logrotate id:0
+2017-08-09 15:21:43: App name:pm2-logrotate id:0 online
+2017-08-09 15:21:43: Stopping app:pm2-logrotate id:0
+2017-08-09 15:21:43: App [pm2-logrotate] with id [0] and pid [113692], exited with code [0] via signal [SIGINT]
+2017-08-09 15:21:43: pid=113692 msg=process killed
+2017-08-09 15:21:43: Starting execution sequence in -fork mode- for app name:pm2-logrotate id:0
+2017-08-09 15:21:43: App name:pm2-logrotate id:0 online
+2018-10-12 15:24:53: ===============================================================================
+2018-10-12 15:24:53: --- New PM2 Daemon started ----------------------------------------------------
+2018-10-12 15:24:53: Time                 : Fri Oct 12 2018 15:24:53 GMT+0800 (CST)
+2018-10-12 15:24:53: PM2 version          : 2.6.1
+2018-10-12 15:24:53: Node.js version      : 6.11.2
+2018-10-12 15:24:53: Current arch         : x64
+2018-10-12 15:24:53: PM2 home             : /root/.pm2
+2018-10-12 15:24:53: PM2 PID file         : /root/.pm2/pm2.pid
+2018-10-12 15:24:53: RPC socket file      : /root/.pm2/rpc.sock
+2018-10-12 15:24:53: BUS socket file      : /root/.pm2/pub.sock
+2018-10-12 15:24:53: Application log path : /root/.pm2/logs
+2018-10-12 15:24:53: Process dump file    : /root/.pm2/dump.pm2
+2018-10-12 15:24:53: Concurrent actions   : 2
+2018-10-12 15:24:53: SIGTERM timeout      : 1600
+2018-10-12 15:24:53: ===============================================================================
+2018-10-12 15:24:53: Starting execution sequence in -fork mode- for app name:pm2-logrotate id:0
+2018-10-12 15:24:53: App name:pm2-logrotate id:0 online
+2018-10-12 15:30:36: ===============================================================================
+2018-10-12 15:30:36: --- New PM2 Daemon started ----------------------------------------------------
+2018-10-12 15:30:36: Time                 : Fri Oct 12 2018 15:30:36 GMT+0800 (CST)
+2018-10-12 15:30:36: PM2 version          : 2.6.1
+2018-10-12 15:30:36: Node.js version      : 6.11.2
+2018-10-12 15:30:36: Current arch         : x64
+2018-10-12 15:30:36: PM2 home             : /root/.pm2
+2018-10-12 15:30:36: PM2 PID file         : /root/.pm2/pm2.pid
+2018-10-12 15:30:36: RPC socket file      : /root/.pm2/rpc.sock
+2018-10-12 15:30:36: BUS socket file      : /root/.pm2/pub.sock
+2018-10-12 15:30:36: Application log path : /root/.pm2/logs
+2018-10-12 15:30:36: Process dump file    : /root/.pm2/dump.pm2
+2018-10-12 15:30:36: Concurrent actions   : 2
+2018-10-12 15:30:36: SIGTERM timeout      : 1600
+2018-10-12 15:30:36: ===============================================================================
+2018-10-12 15:30:36: Starting execution sequence in -fork mode- for app name:pm2-logrotate id:0
+2018-10-12 15:30:36: App name:pm2-logrotate id:0 online
+2018-10-12 15:33:50: ===============================================================================
+2018-10-12 15:33:50: --- New PM2 Daemon started ----------------------------------------------------
+2018-10-12 15:33:50: Time                 : Fri Oct 12 2018 15:33:50 GMT+0800 (CST)
+2018-10-12 15:33:50: PM2 version          : 2.6.1
+2018-10-12 15:33:50: Node.js version      : 6.11.2
+2018-10-12 15:33:50: Current arch         : x64
+2018-10-12 15:33:50: PM2 home             : /root/.pm2
+2018-10-12 15:33:50: PM2 PID file         : /root/.pm2/pm2.pid
+2018-10-12 15:33:50: RPC socket file      : /root/.pm2/rpc.sock
+2018-10-12 15:33:50: BUS socket file      : /root/.pm2/pub.sock
+2018-10-12 15:33:50: Application log path : /root/.pm2/logs
+2018-10-12 15:33:50: Process dump file    : /root/.pm2/dump.pm2
+2018-10-12 15:33:50: Concurrent actions   : 2
+2018-10-12 15:33:50: SIGTERM timeout      : 1600
+2018-10-12 15:33:50: ===============================================================================
+2018-10-12 15:33:50: Starting execution sequence in -fork mode- for app name:pm2-logrotate id:0
+2018-10-12 15:33:50: App name:pm2-logrotate id:0 online
+2019-01-19 15:45:00: ===============================================================================
+2019-01-19 15:45:00: --- New PM2 Daemon started ----------------------------------------------------
+2019-01-19 15:45:00: Time                 : Sat Jan 19 2019 15:45:00 GMT+0800 (CST)
+2019-01-19 15:45:00: PM2 version          : 2.6.1
+2019-01-19 15:45:00: Node.js version      : 6.11.2
+2019-01-19 15:45:00: Current arch         : x64
+2019-01-19 15:45:00: PM2 home             : /root/.pm2
+2019-01-19 15:45:00: PM2 PID file         : /root/.pm2/pm2.pid
+2019-01-19 15:45:00: RPC socket file      : /root/.pm2/rpc.sock
+2019-01-19 15:45:00: BUS socket file      : /root/.pm2/pub.sock
+2019-01-19 15:45:00: Application log path : /root/.pm2/logs
+2019-01-19 15:45:00: Process dump file    : /root/.pm2/dump.pm2
+2019-01-19 15:45:00: Concurrent actions   : 2
+2019-01-19 15:45:00: SIGTERM timeout      : 1600
+2019-01-19 15:45:00: ===============================================================================
+2019-01-19 15:45:00: Starting execution sequence in -fork mode- for app name:pm2-logrotate id:0
+2019-01-19 15:45:00: App name:pm2-logrotate id:0 online
+2019-01-19 15:45:00: 0
+2019-01-19 15:45:00: Stopping app:pm2-logrotate id:0
+2019-01-19 15:45:00: App [pm2-logrotate] with id [0] and pid [1503], exited with code [0] via signal [SIGINT]
+2019-01-19 15:45:00: pid=1503 msg=process killed
+2019-01-19 15:46:34: ===============================================================================
+2019-01-19 15:46:34: --- Stopping PM2 --------------------------------------------------------------
+2019-01-19 15:46:34: Time                 : Sat Jan 19 2019 15:46:34 GMT+0800 (CST)
+2019-01-19 15:46:34: ===============================================================================
+2019-01-19 15:46:34: RPC closed
+2019-01-19 15:46:34: PUB closed
+2019-01-19 15:46:34: PM2 successfully stopped
+2019-09-03 11:34:46: ===============================================================================
+2019-09-03 11:34:46: --- New PM2 Daemon started ----------------------------------------------------
+2019-09-03 11:34:46: Time                 : Tue Sep 03 2019 11:34:46 GMT+0800 (Coordinated Universal Time)
+2019-09-03 11:34:46: PM2 version          : 2.6.1
+2019-09-03 11:34:46: Node.js version      : 10.16.0
+2019-09-03 11:34:46: Current arch         : x64
+2019-09-03 11:34:46: PM2 home             : /root/.pm2
+2019-09-03 11:34:46: PM2 PID file         : /root/.pm2/pm2.pid
+2019-09-03 11:34:46: RPC socket file      : /root/.pm2/rpc.sock
+2019-09-03 11:34:46: BUS socket file      : /root/.pm2/pub.sock
+2019-09-03 11:34:46: Application log path : /root/.pm2/logs
+2019-09-03 11:34:46: Process dump file    : /root/.pm2/dump.pm2
+2019-09-03 11:34:46: Concurrent actions   : 2
+2019-09-03 11:34:46: SIGTERM timeout      : 1600
+2019-09-03 11:34:46: ===============================================================================
+2019-09-03 11:34:47: ===============================================================================
+2019-09-03 11:34:47: --- Stopping PM2 --------------------------------------------------------------
+2019-09-03 11:34:47: Time                 : Tue Sep 03 2019 11:34:47 GMT+0800 (Coordinated Universal Time)
+2019-09-03 11:34:47: ===============================================================================
+2019-09-03 11:34:47: RPC closed
+2019-09-03 11:34:47: PUB closed
+2019-09-03 11:34:47: PM2 successfully stopped
+2019-09-03T11:35:46: PM2 log: ===============================================================================
+2019-09-03T11:35:46: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-09-03T11:35:46: PM2 log: Time                 : Tue Sep 03 2019 11:35:46 GMT+0800 (Coordinated Universal Time)
+2019-09-03T11:35:46: PM2 log: PM2 version          : 3.5.1
+2019-09-03T11:35:46: PM2 log: Node.js version      : 10.16.0
+2019-09-03T11:35:46: PM2 log: Current arch         : x64
+2019-09-03T11:35:46: PM2 log: PM2 home             : /root/.pm2
+2019-09-03T11:35:46: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2019-09-03T11:35:46: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2019-09-03T11:35:46: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2019-09-03T11:35:46: PM2 log: Application log path : /root/.pm2/logs
+2019-09-03T11:35:46: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2019-09-03T11:35:46: PM2 log: Concurrent actions   : 2
+2019-09-03T11:35:46: PM2 log: SIGTERM timeout      : 1600
+2019-09-03T11:35:46: PM2 log: ===============================================================================
+2019-11-22T18:50:22: PM2 log: ===============================================================================
+2019-11-22T18:50:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-11-22T18:50:22: PM2 log: Time                 : Fri Nov 22 2019 18:50:22 GMT+0800 (Coordinated Universal Time)
+2019-11-22T18:50:22: PM2 log: PM2 version          : 3.5.1
+2019-11-22T18:50:22: PM2 log: Node.js version      : 10.16.0
+2019-11-22T18:50:22: PM2 log: Current arch         : x64
+2019-11-22T18:50:22: PM2 log: PM2 home             : /root/.pm2
+2019-11-22T18:50:22: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2019-11-22T18:50:22: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2019-11-22T18:50:22: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2019-11-22T18:50:22: PM2 log: Application log path : /root/.pm2/logs
+2019-11-22T18:50:22: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2019-11-22T18:50:22: PM2 log: Concurrent actions   : 2
+2019-11-22T18:50:22: PM2 log: SIGTERM timeout      : 1600
+2019-11-22T18:50:22: PM2 log: ===============================================================================
+2019-11-22T18:50:32: PM2 log: PM2 successfully stopped
+2020-01-19T19:52:27: PM2 log: ===============================================================================
+2020-01-19T19:52:27: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-19T19:52:27: PM2 log: Time                 : Sun Jan 19 2020 19:52:27 GMT+0800 (Coordinated Universal Time)
+2020-01-19T19:52:27: PM2 log: PM2 version          : 4.1.2
+2020-01-19T19:52:27: PM2 log: Node.js version      : 12.13.0
+2020-01-19T19:52:27: PM2 log: Current arch         : x64
+2020-01-19T19:52:27: PM2 log: PM2 home             : /root/.pm2
+2020-01-19T19:52:27: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-19T19:52:27: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-19T19:52:27: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-19T19:52:27: PM2 log: Application log path : /root/.pm2/logs
+2020-01-19T19:52:27: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-19T19:52:27: PM2 log: Concurrent actions   : 2
+2020-01-19T19:52:27: PM2 log: SIGTERM timeout      : 1600
+2020-01-19T19:52:27: PM2 log: ===============================================================================
+2020-01-19T20:15:13: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-01-19T20:15:14: PM2 log: App [log-report-server:0] online
+2020-01-19T20:15:14: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-01-19T20:15:14: PM2 log: App [log-report-server:1] online
+2020-01-19T20:15:14: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-01-19T20:15:14: PM2 log: App [log-report-server:2] online
+2020-01-19T20:15:14: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-01-19T20:15:14: PM2 log: App [log-report-server:3] online
+2020-01-19T20:15:14: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-01-19T20:15:14: PM2 log: App [log-report-server:4] online
+2020-01-19T20:15:14: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-01-19T20:15:14: PM2 log: App [log-report-server:5] online
+2020-01-19T20:15:14: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-01-19T20:15:14: PM2 log: App [log-report-server:6] online
+2020-01-19T20:15:21: PM2 log: Stopping app:log-report-server id:0
+2020-01-19T20:15:21: PM2 log: Stopping app:log-report-server id:1
+2020-01-19T20:15:21: PM2 log: App name:log-report-server id:0 disconnected
+2020-01-19T20:15:21: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGINT]
+2020-01-19T20:15:21: PM2 log: App name:log-report-server id:1 disconnected
+2020-01-19T20:15:21: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGINT]
+2020-01-19T20:15:21: PM2 log: pid=6661 msg=process killed
+2020-01-19T20:15:21: PM2 log: pid=6670 msg=process killed
+2020-01-19T20:15:21: PM2 log: Stopping app:log-report-server id:2
+2020-01-19T20:15:21: PM2 log: Stopping app:log-report-server id:3
+2020-01-19T20:15:21: PM2 log: App name:log-report-server id:3 disconnected
+2020-01-19T20:15:21: PM2 log: App name:log-report-server id:2 disconnected
+2020-01-19T20:15:21: PM2 log: App [log-report-server:2] exited with code [0] via signal [SIGINT]
+2020-01-19T20:15:21: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGINT]
+2020-01-19T20:15:22: PM2 log: pid=6681 msg=process killed
+2020-01-19T20:15:22: PM2 log: pid=6692 msg=process killed
+2020-01-19T20:15:22: PM2 log: Stopping app:log-report-server id:4
+2020-01-19T20:15:22: PM2 log: Stopping app:log-report-server id:5
+2020-01-19T20:15:22: PM2 log: App name:log-report-server id:4 disconnected
+2020-01-19T20:15:22: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGINT]
+2020-01-19T20:15:22: PM2 log: App name:log-report-server id:5 disconnected
+2020-01-19T20:15:22: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGINT]
+2020-01-19T20:15:22: PM2 log: pid=6708 msg=process killed
+2020-01-19T20:15:22: PM2 log: pid=6724 msg=process killed
+2020-01-19T20:15:22: PM2 log: Stopping app:log-report-server id:6
+2020-01-19T20:15:22: PM2 log: App name:log-report-server id:6 disconnected
+2020-01-19T20:15:22: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGINT]
+2020-01-19T20:15:22: PM2 log: pid=6740 msg=process killed
+2020-01-19T20:15:25: PM2 log: PM2 successfully stopped
+2020-01-19T20:15:27: PM2 log: ===============================================================================
+2020-01-19T20:15:27: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-19T20:15:27: PM2 log: Time                 : Sun Jan 19 2020 20:15:27 GMT+0800 (Coordinated Universal Time)
+2020-01-19T20:15:27: PM2 log: PM2 version          : 4.1.2
+2020-01-19T20:15:27: PM2 log: Node.js version      : 12.13.0
+2020-01-19T20:15:27: PM2 log: Current arch         : x64
+2020-01-19T20:15:27: PM2 log: PM2 home             : /root/.pm2
+2020-01-19T20:15:27: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-19T20:15:27: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-19T20:15:27: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-19T20:15:27: PM2 log: Application log path : /root/.pm2/logs
+2020-01-19T20:15:27: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-19T20:15:27: PM2 log: Concurrent actions   : 2
+2020-01-19T20:15:27: PM2 log: SIGTERM timeout      : 1600
+2020-01-19T20:15:27: PM2 log: ===============================================================================
+2020-01-19T20:17:41: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-01-19T20:17:41: PM2 log: App [log-report-server:0] online
+2020-01-19T20:17:41: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-01-19T20:17:41: PM2 log: App [log-report-server:1] online
+2020-01-19T20:17:41: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-01-19T20:17:41: PM2 log: App [log-report-server:2] online
+2020-01-19T20:17:41: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-01-19T20:17:41: PM2 log: App [log-report-server:3] online
+2020-01-19T20:17:41: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-01-19T20:17:41: PM2 log: App [log-report-server:4] online
+2020-01-19T20:17:41: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-01-19T20:17:41: PM2 log: App [log-report-server:5] online
+2020-01-19T20:17:41: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-01-19T20:17:41: PM2 log: App [log-report-server:6] online
+2020-01-19T20:26:44: PM2 log: ===============================================================================
+2020-01-19T20:26:44: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-19T20:26:44: PM2 log: Time                 : Sun Jan 19 2020 20:26:44 GMT+0800 (Coordinated Universal Time)
+2020-01-19T20:26:44: PM2 log: PM2 version          : 4.1.2
+2020-01-19T20:26:44: PM2 log: Node.js version      : 12.13.0
+2020-01-19T20:26:44: PM2 log: Current arch         : x64
+2020-01-19T20:26:44: PM2 log: PM2 home             : /root/.pm2
+2020-01-19T20:26:44: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-19T20:26:44: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-19T20:26:44: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-19T20:26:44: PM2 log: Application log path : /root/.pm2/logs
+2020-01-19T20:26:44: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-19T20:26:44: PM2 log: Concurrent actions   : 2
+2020-01-19T20:26:44: PM2 log: SIGTERM timeout      : 1600
+2020-01-19T20:26:44: PM2 log: ===============================================================================
+2020-01-19T20:26:44: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-01-19T20:26:44: PM2 log: App [log-report-server:0] online
+2020-01-19T20:26:44: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-01-19T20:26:44: PM2 log: App [log-report-server:1] online
+2020-01-19T20:26:44: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-01-19T20:26:44: PM2 log: App [log-report-server:2] online
+2020-01-19T20:26:44: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-01-19T20:26:45: PM2 log: App [log-report-server:3] online
+2020-01-19T20:26:45: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-01-19T20:26:45: PM2 log: App [log-report-server:4] online
+2020-01-19T20:26:45: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-01-19T20:26:45: PM2 log: App [log-report-server:5] online
+2020-01-19T20:26:45: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-01-19T20:26:45: PM2 log: App [log-report-server:6] online
+2020-01-19T20:43:55: PM2 log: Stopping app:log-report-server id:0
+2020-01-19T20:43:55: PM2 log: Stopping app:log-report-server id:1
+2020-01-19T20:43:55: PM2 log: Stopping app:log-report-server id:2
+2020-01-19T20:43:55: PM2 log: Stopping app:log-report-server id:3
+2020-01-19T20:43:55: PM2 log: Stopping app:log-report-server id:4
+2020-01-19T20:43:55: PM2 log: Stopping app:log-report-server id:5
+2020-01-19T20:43:55: PM2 log: Stopping app:log-report-server id:6
+2020-01-19T20:43:55: PM2 log: App name:log-report-server id:4 disconnected
+2020-01-19T20:43:55: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGINT]
+2020-01-19T20:43:55: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGINT]
+2020-01-19T20:43:55: PM2 log: App name:log-report-server id:3 disconnected
+2020-01-19T20:43:55: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGINT]
+2020-01-19T20:43:55: PM2 log: App name:log-report-server id:1 disconnected
+2020-01-19T20:43:55: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGINT]
+2020-01-19T20:43:55: PM2 log: App [log-report-server:2] exited with code [0] via signal [SIGINT]
+2020-01-19T20:43:55: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGINT]
+2020-01-19T20:43:55: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGINT]
+2020-01-19T20:43:55: PM2 log: pid=450 msg=process killed
+2020-01-19T20:43:55: PM2 log: pid=434 msg=process killed
+2020-01-19T20:43:55: PM2 log: pid=418 msg=process killed
+2020-01-19T20:43:55: PM2 log: pid=407 msg=process killed
+2020-01-19T20:43:55: PM2 log: pid=396 msg=process killed
+2020-01-19T20:43:55: PM2 log: pid=387 msg=process killed
+2020-01-19T20:43:55: PM2 log: pid=461 msg=process killed
+2020-01-19T20:43:55: PM2 log: PM2 successfully stopped
+2020-01-19T20:43:58: PM2 log: ===============================================================================
+2020-01-19T20:43:58: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-19T20:43:58: PM2 log: Time                 : Sun Jan 19 2020 20:43:58 GMT+0800 (Coordinated Universal Time)
+2020-01-19T20:43:58: PM2 log: PM2 version          : 4.1.2
+2020-01-19T20:43:58: PM2 log: Node.js version      : 12.13.0
+2020-01-19T20:43:58: PM2 log: Current arch         : x64
+2020-01-19T20:43:58: PM2 log: PM2 home             : /root/.pm2
+2020-01-19T20:43:58: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-19T20:43:58: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-19T20:43:58: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-19T20:43:58: PM2 log: Application log path : /root/.pm2/logs
+2020-01-19T20:43:58: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-19T20:43:58: PM2 log: Concurrent actions   : 2
+2020-01-19T20:43:58: PM2 log: SIGTERM timeout      : 1600
+2020-01-19T20:43:58: PM2 log: ===============================================================================
+2020-01-19T20:43:58: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-01-19T20:43:58: PM2 log: App [log-report-server:0] online
+2020-01-19T20:43:58: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-01-19T20:43:58: PM2 log: App [log-report-server:1] online
+2020-01-19T20:43:58: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-01-19T20:43:58: PM2 log: App [log-report-server:2] online
+2020-01-19T20:43:58: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-01-19T20:43:58: PM2 log: App [log-report-server:3] online
+2020-01-19T20:43:58: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-01-19T20:43:58: PM2 log: App [log-report-server:4] online
+2020-01-19T20:43:58: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-01-19T20:43:58: PM2 log: App [log-report-server:5] online
+2020-01-19T20:43:58: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-01-19T20:43:58: PM2 log: App [log-report-server:6] online
+2020-02-19T21:45:42: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-19T21:45:42: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-19T21:45:42: PM2 log: App [log-report-server:0] online
+2020-02-19T21:45:42: PM2 log: App [log-report-server:1] online
+2020-02-19T21:45:43: PM2 log: -reload- New worker listening
+2020-02-19T21:45:43: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-19T21:45:43: PM2 log: -reload- New worker listening
+2020-02-19T21:45:43: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-19T21:45:43: PM2 log: pid=4183 msg=failed to kill - retrying in 100ms
+2020-02-19T21:45:43: PM2 log: pid=4174 msg=failed to kill - retrying in 100ms
+2020-02-19T21:45:43: PM2 log: pid=4183 msg=failed to kill - retrying in 100ms
+2020-02-19T21:45:43: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-02-19T21:45:43: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-19T21:45:43: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-19T21:45:43: PM2 log: pid=4174 msg=process killed
+2020-02-19T21:45:43: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-19T21:45:43: PM2 log: App [log-report-server:2] online
+2020-02-19T21:45:43: PM2 log: pid=4183 msg=process killed
+2020-02-19T21:45:43: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-19T21:45:43: PM2 log: App [log-report-server:3] online
+2020-02-19T21:45:44: PM2 log: -reload- New worker listening
+2020-02-19T21:45:44: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-19T21:45:44: PM2 log: -reload- New worker listening
+2020-02-19T21:45:44: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-19T21:45:44: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-02-19T21:45:44: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-19T21:45:44: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-02-19T21:45:44: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-19T21:45:44: PM2 log: pid=4194 msg=process killed
+2020-02-19T21:45:44: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-19T21:45:44: PM2 log: pid=4205 msg=process killed
+2020-02-19T21:45:44: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-19T21:45:44: PM2 log: App [log-report-server:4] online
+2020-02-19T21:45:44: PM2 log: App [log-report-server:5] online
+2020-02-19T21:45:44: PM2 log: -reload- New worker listening
+2020-02-19T21:45:44: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-19T21:45:44: PM2 log: -reload- New worker listening
+2020-02-19T21:45:44: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-19T21:45:44: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-02-19T21:45:44: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-19T21:45:45: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-19T21:45:45: PM2 log: pid=4236 msg=process killed
+2020-02-19T21:45:45: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-19T21:45:45: PM2 log: pid=4220 msg=process killed
+2020-02-19T21:45:45: PM2 log: App [log-report-server:6] online
+2020-02-19T21:45:45: PM2 log: -reload- New worker listening
+2020-02-19T21:45:45: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-19T21:45:45: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-02-19T21:45:45: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-19T21:45:45: PM2 log: pid=4248 msg=process killed
+2020-02-26T17:41:05: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-26T17:41:05: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-26T17:41:05: PM2 log: App [log-report-server:1] online
+2020-02-26T17:41:05: PM2 log: App [log-report-server:0] online
+2020-02-26T17:41:06: PM2 log: -reload- New worker listening
+2020-02-26T17:41:06: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-26T17:41:06: PM2 log: -reload- New worker listening
+2020-02-26T17:41:06: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-26T17:41:06: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-02-26T17:41:06: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-26T17:41:06: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-02-26T17:41:06: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-26T17:41:06: PM2 log: pid=31327 msg=process killed
+2020-02-26T17:41:06: PM2 log: pid=31333 msg=process killed
+2020-02-26T17:41:06: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-26T17:41:06: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-26T17:41:06: PM2 log: App [log-report-server:2] online
+2020-02-26T17:41:06: PM2 log: App [log-report-server:3] online
+2020-02-26T17:41:07: PM2 log: -reload- New worker listening
+2020-02-26T17:41:07: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-26T17:41:07: PM2 log: -reload- New worker listening
+2020-02-26T17:41:07: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-26T17:41:07: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-02-26T17:41:07: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-26T17:41:07: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-02-26T17:41:07: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-26T17:41:07: PM2 log: pid=31377 msg=process killed
+2020-02-26T17:41:07: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-26T17:41:07: PM2 log: pid=31366 msg=process killed
+2020-02-26T17:41:07: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-26T17:41:07: PM2 log: App [log-report-server:4] online
+2020-02-26T17:41:07: PM2 log: App [log-report-server:5] online
+2020-02-26T17:41:07: PM2 log: -reload- New worker listening
+2020-02-26T17:41:07: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-26T17:41:07: PM2 log: -reload- New worker listening
+2020-02-26T17:41:07: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-26T17:41:07: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-26T17:41:07: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-02-26T17:41:07: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-26T17:41:07: PM2 log: pid=31414 msg=process killed
+2020-02-26T17:41:07: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-26T17:41:07: PM2 log: pid=31405 msg=process killed
+2020-02-26T17:41:07: PM2 log: App [log-report-server:6] online
+2020-02-26T17:41:08: PM2 log: -reload- New worker listening
+2020-02-26T17:41:08: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-26T17:41:08: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-02-26T17:41:08: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-26T17:41:08: PM2 log: pid=31444 msg=process killed
+2020-02-26T18:04:37: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-26T18:04:37: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-26T18:04:37: PM2 log: App [log-report-server:0] online
+2020-02-26T18:04:37: PM2 log: App [log-report-server:1] online
+2020-02-26T18:04:38: PM2 log: -reload- New worker listening
+2020-02-26T18:04:38: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-26T18:04:38: PM2 log: -reload- New worker listening
+2020-02-26T18:04:38: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-26T18:04:38: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-02-26T18:04:38: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-26T18:04:38: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-02-26T18:04:38: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-26T18:04:38: PM2 log: pid=131706 msg=process killed
+2020-02-26T18:04:38: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-26T18:04:38: PM2 log: App [log-report-server:2] online
+2020-02-26T18:04:38: PM2 log: pid=131705 msg=process killed
+2020-02-26T18:04:38: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-26T18:04:38: PM2 log: App [log-report-server:3] online
+2020-02-26T18:04:38: PM2 log: -reload- New worker listening
+2020-02-26T18:04:38: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-26T18:04:39: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-02-26T18:04:39: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-26T18:04:39: PM2 log: -reload- New worker listening
+2020-02-26T18:04:39: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-26T18:04:39: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-26T18:04:39: PM2 log: pid=131769 msg=process killed
+2020-02-26T18:04:39: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-26T18:04:39: PM2 log: App [log-report-server:4] online
+2020-02-26T18:04:39: PM2 log: pid=131775 msg=process killed
+2020-02-26T18:04:39: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-26T18:04:39: PM2 log: App [log-report-server:5] online
+2020-02-26T18:04:39: PM2 log: -reload- New worker listening
+2020-02-26T18:04:39: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-26T18:04:39: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-02-26T18:04:39: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-26T18:04:39: PM2 log: -reload- New worker listening
+2020-02-26T18:04:39: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-26T18:04:39: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-26T18:04:39: PM2 log: pid=131833 msg=process killed
+2020-02-26T18:04:39: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-26T18:04:39: PM2 log: App [log-report-server:6] online
+2020-02-26T18:04:39: PM2 log: pid=131840 msg=process killed
+2020-02-26T18:04:40: PM2 log: -reload- New worker listening
+2020-02-26T18:04:40: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-26T18:04:40: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-02-26T18:04:40: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-26T18:04:40: PM2 log: pid=131897 msg=process killed
+2020-02-27T11:00:51: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T11:00:51: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T11:00:51: PM2 log: App [log-report-server:0] online
+2020-02-27T11:00:51: PM2 log: App [log-report-server:1] online
+2020-02-27T11:00:52: PM2 log: -reload- New worker listening
+2020-02-27T11:00:52: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-27T11:00:52: PM2 log: -reload- New worker listening
+2020-02-27T11:00:52: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-27T11:00:52: PM2 log: pid=136840 msg=failed to kill - retrying in 100ms
+2020-02-27T11:00:52: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-27T11:00:52: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-27T11:00:52: PM2 log: pid=136846 msg=process killed
+2020-02-27T11:00:52: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-27T11:00:52: PM2 log: App [log-report-server:2] online
+2020-02-27T11:00:52: PM2 log: pid=136840 msg=process killed
+2020-02-27T11:00:52: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-27T11:00:52: PM2 log: App [log-report-server:3] online
+2020-02-27T11:00:53: PM2 log: -reload- New worker listening
+2020-02-27T11:00:53: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-27T11:00:53: PM2 log: -reload- New worker listening
+2020-02-27T11:00:53: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-27T11:00:53: PM2 log: pid=136904 msg=failed to kill - retrying in 100ms
+2020-02-27T11:00:53: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-27T11:00:53: PM2 log: pid=136916 msg=failed to kill - retrying in 100ms
+2020-02-27T11:00:53: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-27T11:00:53: PM2 log: pid=136904 msg=process killed
+2020-02-27T11:00:53: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T11:00:53: PM2 log: App [log-report-server:4] online
+2020-02-27T11:00:53: PM2 log: pid=136916 msg=process killed
+2020-02-27T11:00:53: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-27T11:00:53: PM2 log: App [log-report-server:5] online
+2020-02-27T11:00:54: PM2 log: -reload- New worker listening
+2020-02-27T11:00:54: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-27T11:00:54: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-27T11:00:54: PM2 log: pid=136969 msg=process killed
+2020-02-27T11:00:54: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T11:00:54: PM2 log: -reload- New worker listening
+2020-02-27T11:00:54: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-27T11:00:54: PM2 log: App [log-report-server:6] online
+2020-02-27T11:00:54: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-27T11:00:54: PM2 log: pid=136980 msg=process killed
+2020-02-27T11:00:54: PM2 log: -reload- New worker listening
+2020-02-27T11:00:54: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-27T11:00:54: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-02-27T11:00:54: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-27T11:00:54: PM2 log: pid=137033 msg=process killed
+2020-02-27T11:10:43: PM2 log: App name:log-report-server id:4 disconnected
+2020-02-27T11:10:43: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:10:43: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T11:10:43: PM2 log: App [log-report-server:4] online
+2020-02-27T11:13:46: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:13:46: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-27T11:13:46: PM2 log: App [log-report-server:5] online
+2020-02-27T11:14:09: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:14:09: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T11:14:09: PM2 log: App [log-report-server:0] online
+2020-02-27T11:16:45: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:16:45: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-27T11:16:45: PM2 log: App [log-report-server:3] online
+2020-02-27T11:20:16: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:20:16: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T11:20:16: PM2 log: App [log-report-server:6] online
+2020-02-27T11:21:22: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:21:22: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T11:21:22: PM2 log: App [log-report-server:1] online
+2020-02-27T11:26:05: PM2 log: App [log-report-server:2] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:26:05: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-27T11:26:05: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:26:05: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T11:26:05: PM2 log: App [log-report-server:2] online
+2020-02-27T11:26:05: PM2 log: App [log-report-server:4] online
+2020-02-27T11:26:52: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T11:26:52: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T11:26:52: PM2 log: App [log-report-server:1] online
+2020-02-27T11:26:52: PM2 log: App [log-report-server:0] online
+2020-02-27T11:26:53: PM2 log: -reload- New worker listening
+2020-02-27T11:26:53: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-27T11:26:53: PM2 log: pid=145711 msg=failed to kill - retrying in 100ms
+2020-02-27T11:26:53: PM2 log: -reload- New worker listening
+2020-02-27T11:26:53: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-27T11:26:53: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-27T11:26:53: PM2 log: pid=145711 msg=process killed
+2020-02-27T11:26:53: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-27T11:26:53: PM2 log: pid=147579 msg=failed to kill - retrying in 100ms
+2020-02-27T11:26:53: PM2 log: App [log-report-server:2] online
+2020-02-27T11:26:53: PM2 log: pid=147579 msg=failed to kill - retrying in 100ms
+2020-02-27T11:26:53: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-27T11:26:53: PM2 log: pid=147579 msg=process killed
+2020-02-27T11:26:53: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-27T11:26:54: PM2 log: App [log-report-server:3] online
+2020-02-27T11:26:54: PM2 log: -reload- New worker listening
+2020-02-27T11:26:54: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-27T11:26:54: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-27T11:26:54: PM2 log: pid=148600 msg=process killed
+2020-02-27T11:26:54: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T11:26:55: PM2 log: App [log-report-server:4] online
+2020-02-27T11:26:55: PM2 log: -reload- New worker listening
+2020-02-27T11:26:55: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-27T11:26:55: PM2 log: pid=146295 msg=failed to kill - retrying in 100ms
+2020-02-27T11:26:55: PM2 log: pid=146295 msg=failed to kill - retrying in 100ms
+2020-02-27T11:26:55: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-27T11:26:55: PM2 log: pid=146295 msg=process killed
+2020-02-27T11:26:55: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-27T11:26:55: PM2 log: App [log-report-server:5] online
+2020-02-27T11:26:56: PM2 log: -reload- New worker listening
+2020-02-27T11:26:56: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-27T11:26:56: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-27T11:26:56: PM2 log: pid=148606 msg=process killed
+2020-02-27T11:26:56: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T11:26:56: PM2 log: App [log-report-server:6] online
+2020-02-27T11:26:56: PM2 log: -reload- New worker listening
+2020-02-27T11:26:56: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-27T11:26:56: PM2 log: pid=145597 msg=failed to kill - retrying in 100ms
+2020-02-27T11:26:56: PM2 log: pid=145597 msg=failed to kill - retrying in 100ms
+2020-02-27T11:26:56: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-27T11:26:56: PM2 log: pid=145597 msg=process killed
+2020-02-27T11:26:57: PM2 log: -reload- New worker listening
+2020-02-27T11:26:57: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-27T11:26:57: PM2 log: pid=147331 msg=failed to kill - retrying in 100ms
+2020-02-27T11:26:57: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-27T11:26:57: PM2 log: pid=147331 msg=process killed
+2020-02-27T11:39:08: PM2 log: App name:log-report-server id:1 disconnected
+2020-02-27T11:39:08: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:39:08: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T11:39:09: PM2 log: App [log-report-server:1] online
+2020-02-27T11:39:27: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:39:27: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-27T11:39:27: PM2 log: App [log-report-server:5] online
+2020-02-27T11:39:45: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:39:45: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T11:39:46: PM2 log: App [log-report-server:6] online
+2020-02-27T11:39:46: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:39:46: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T11:39:46: PM2 log: App [log-report-server:0] online
+2020-02-27T11:40:26: PM2 log: App [log-report-server:2] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:40:26: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-27T11:40:26: PM2 log: App [log-report-server:2] online
+2020-02-27T11:41:13: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGKILL]
+2020-02-27T11:41:13: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T11:41:13: PM2 log: App [log-report-server:4] online
+2020-02-27T11:48:04: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T11:48:04: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T11:48:04: PM2 log: App [log-report-server:0] online
+2020-02-27T11:48:04: PM2 log: App [log-report-server:1] online
+2020-02-27T11:48:04: PM2 log: -reload- New worker listening
+2020-02-27T11:48:04: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-27T11:48:04: PM2 log: -reload- New worker listening
+2020-02-27T11:48:04: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-27T11:48:04: PM2 log: pid=151646 msg=failed to kill - retrying in 100ms
+2020-02-27T11:48:04: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-02-27T11:48:04: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-27T11:48:04: PM2 log: pid=151842 msg=failed to kill - retrying in 100ms
+2020-02-27T11:48:05: PM2 log: pid=151646 msg=process killed
+2020-02-27T11:48:05: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-27T11:48:05: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-02-27T11:48:05: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-27T11:48:05: PM2 log: pid=151842 msg=process killed
+2020-02-27T11:48:05: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-27T11:48:05: PM2 log: App [log-report-server:2] online
+2020-02-27T11:48:05: PM2 log: App [log-report-server:3] online
+2020-02-27T11:48:05: PM2 log: -reload- New worker listening
+2020-02-27T11:48:05: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-27T11:48:05: PM2 log: -reload- New worker listening
+2020-02-27T11:48:05: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-27T11:48:05: PM2 log: pid=152003 msg=failed to kill - retrying in 100ms
+2020-02-27T11:48:05: PM2 log: pid=149016 msg=failed to kill - retrying in 100ms
+2020-02-27T11:48:05: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-27T11:48:05: PM2 log: pid=152003 msg=process killed
+2020-02-27T11:48:05: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T11:48:05: PM2 log: pid=149016 msg=failed to kill - retrying in 100ms
+2020-02-27T11:48:05: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-27T11:48:05: PM2 log: App [log-report-server:4] online
+2020-02-27T11:48:05: PM2 log: pid=149016 msg=process killed
+2020-02-27T11:48:05: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-27T11:48:05: PM2 log: App [log-report-server:5] online
+2020-02-27T11:48:06: PM2 log: -reload- New worker listening
+2020-02-27T11:48:06: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-27T11:48:06: PM2 log: -reload- New worker listening
+2020-02-27T11:48:06: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-27T11:48:06: PM2 log: pid=152201 msg=failed to kill - retrying in 100ms
+2020-02-27T11:48:06: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-27T11:48:06: PM2 log: pid=152201 msg=process killed
+2020-02-27T11:48:06: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T11:48:06: PM2 log: pid=151715 msg=failed to kill - retrying in 100ms
+2020-02-27T11:48:06: PM2 log: App [log-report-server:6] online
+2020-02-27T11:48:06: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-27T11:48:06: PM2 log: pid=151715 msg=process killed
+2020-02-27T11:48:07: PM2 log: -reload- New worker listening
+2020-02-27T11:48:07: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-27T11:48:07: PM2 log: pid=151831 msg=failed to kill - retrying in 100ms
+2020-02-27T11:48:07: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-27T11:48:07: PM2 log: pid=151831 msg=process killed
+2020-02-27T12:10:58: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGKILL]
+2020-02-27T12:10:58: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T12:10:58: PM2 log: App [log-report-server:1] online
+2020-02-27T12:19:35: PM2 log: App name:log-report-server id:3 disconnected
+2020-02-27T12:19:35: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGKILL]
+2020-02-27T12:19:35: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-27T12:19:35: PM2 log: App [log-report-server:3] online
+2020-02-27T12:26:47: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGKILL]
+2020-02-27T12:26:47: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T12:26:47: PM2 log: App [log-report-server:4] online
+2020-02-27T13:14:58: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGKILL]
+2020-02-27T13:14:58: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T13:14:58: PM2 log: App [log-report-server:0] online
+2020-02-27T13:18:44: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T13:18:44: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T13:18:44: PM2 log: App [log-report-server:0] online
+2020-02-27T13:18:44: PM2 log: App [log-report-server:1] online
+2020-02-27T13:18:45: PM2 log: -reload- New worker listening
+2020-02-27T13:18:45: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-27T13:18:45: PM2 log: -reload- New worker listening
+2020-02-27T13:18:45: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-27T13:18:45: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-02-27T13:18:45: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-27T13:18:45: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-02-27T13:18:45: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-27T13:18:45: PM2 log: pid=158735 msg=process killed
+2020-02-27T13:18:45: PM2 log: pid=171601 msg=process killed
+2020-02-27T13:18:45: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-27T13:18:45: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-27T13:18:45: PM2 log: App [log-report-server:2] online
+2020-02-27T13:18:45: PM2 log: App [log-report-server:3] online
+2020-02-27T13:18:46: PM2 log: -reload- New worker listening
+2020-02-27T13:18:46: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-27T13:18:46: PM2 log: -reload- New worker listening
+2020-02-27T13:18:46: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-27T13:18:46: PM2 log: pid=153901 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:46: PM2 log: pid=160487 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:46: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-02-27T13:18:46: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-27T13:18:46: PM2 log: pid=153901 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:46: PM2 log: pid=160487 msg=process killed
+2020-02-27T13:18:46: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T13:18:46: PM2 log: App [log-report-server:4] online
+2020-02-27T13:18:46: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-27T13:18:46: PM2 log: pid=153901 msg=process killed
+2020-02-27T13:18:46: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-27T13:18:46: PM2 log: App [log-report-server:5] online
+2020-02-27T13:18:46: PM2 log: -reload- New worker listening
+2020-02-27T13:18:46: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-27T13:18:47: PM2 log: pid=161979 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:47: PM2 log: -reload- New worker listening
+2020-02-27T13:18:47: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-27T13:18:47: PM2 log: pid=161979 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:47: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-27T13:18:47: PM2 log: pid=153976 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:47: PM2 log: pid=161979 msg=process killed
+2020-02-27T13:18:47: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T13:18:47: PM2 log: App [log-report-server:6] online
+2020-02-27T13:18:47: PM2 log: pid=153976 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:47: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-27T13:18:47: PM2 log: pid=153976 msg=process killed
+2020-02-27T13:18:47: PM2 log: -reload- New worker listening
+2020-02-27T13:18:47: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-27T13:18:47: PM2 log: pid=154029 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:48: PM2 log: pid=154029 msg=failed to kill - retrying in 100ms
+2020-02-27T13:18:48: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-27T13:18:48: PM2 log: pid=154029 msg=process killed
+2020-02-27T14:29:32: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGKILL]
+2020-02-27T14:29:32: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T14:29:32: PM2 log: App [log-report-server:1] online
+2020-02-27T14:30:27: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGKILL]
+2020-02-27T14:30:27: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T14:30:27: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGKILL]
+2020-02-27T14:30:27: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T14:30:28: PM2 log: App [log-report-server:0] online
+2020-02-27T14:30:28: PM2 log: App [log-report-server:6] online
+2020-02-27T14:37:12: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGKILL]
+2020-02-27T14:37:12: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-27T14:37:12: PM2 log: App [log-report-server:3] online
+2020-02-27T14:42:01: PM2 log: App [log-report-server:2] exited with code [0] via signal [SIGKILL]
+2020-02-27T14:42:01: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-27T14:42:01: PM2 log: App [log-report-server:2] online
+2020-02-27T14:46:36: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGKILL]
+2020-02-27T14:46:36: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-27T14:46:36: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGKILL]
+2020-02-27T14:46:36: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T14:46:37: PM2 log: App [log-report-server:4] online
+2020-02-27T14:46:37: PM2 log: App [log-report-server:5] online
+2020-02-27T15:04:44: PM2 log: App name:log-report-server id:0 disconnected
+2020-02-27T15:04:44: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGKILL]
+2020-02-27T15:04:44: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T15:04:44: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGKILL]
+2020-02-27T15:04:44: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T15:04:44: PM2 log: App [log-report-server:6] online
+2020-02-27T15:04:44: PM2 log: App [log-report-server:0] online
+2020-02-27T15:11:23: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGKILL]
+2020-02-27T15:11:23: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T15:11:23: PM2 log: App [log-report-server:1] online
+2020-02-27T15:14:53: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-27T15:14:53: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-27T15:14:53: PM2 log: App [log-report-server:0] online
+2020-02-27T15:14:54: PM2 log: App [log-report-server:1] online
+2020-02-27T15:14:54: PM2 log: -reload- New worker listening
+2020-02-27T15:14:54: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-27T15:14:54: PM2 log: -reload- New worker listening
+2020-02-27T15:14:54: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-27T15:14:54: PM2 log: pid=194102 msg=failed to kill - retrying in 100ms
+2020-02-27T15:14:54: PM2 log: pid=195479 msg=failed to kill - retrying in 100ms
+2020-02-27T15:14:54: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-27T15:14:54: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-27T15:14:54: PM2 log: pid=194102 msg=process killed
+2020-02-27T15:14:54: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-27T15:14:54: PM2 log: pid=195479 msg=process killed
+2020-02-27T15:14:54: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-27T15:14:54: PM2 log: App [log-report-server:2] online
+2020-02-27T15:14:54: PM2 log: App [log-report-server:3] online
+2020-02-27T15:14:55: PM2 log: -reload- New worker listening
+2020-02-27T15:14:55: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-27T15:14:55: PM2 log: -reload- New worker listening
+2020-02-27T15:14:55: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-27T15:14:55: PM2 log: pid=188538 msg=failed to kill - retrying in 100ms
+2020-02-27T15:14:55: PM2 log: pid=189499 msg=failed to kill - retrying in 100ms
+2020-02-27T15:14:55: PM2 log: pid=188538 msg=failed to kill - retrying in 100ms
+2020-02-27T15:14:55: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-27T15:14:55: PM2 log: pid=189499 msg=process killed
+2020-02-27T15:14:55: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-27T15:14:55: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-27T15:14:55: PM2 log: App [log-report-server:4] online
+2020-02-27T15:14:55: PM2 log: pid=188538 msg=process killed
+2020-02-27T15:14:55: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-27T15:14:55: PM2 log: App [log-report-server:5] online
+2020-02-27T15:14:56: PM2 log: -reload- New worker listening
+2020-02-27T15:14:56: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-27T15:14:56: PM2 log: pid=190451 msg=failed to kill - retrying in 100ms
+2020-02-27T15:14:56: PM2 log: -reload- New worker listening
+2020-02-27T15:14:56: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-27T15:14:56: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-27T15:14:56: PM2 log: pid=190451 msg=process killed
+2020-02-27T15:14:56: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-27T15:14:56: PM2 log: App [log-report-server:6] online
+2020-02-27T15:14:56: PM2 log: pid=190450 msg=failed to kill - retrying in 100ms
+2020-02-27T15:14:56: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-27T15:14:56: PM2 log: pid=190450 msg=process killed
+2020-02-27T15:14:57: PM2 log: -reload- New worker listening
+2020-02-27T15:14:57: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-27T15:14:57: PM2 log: pid=194103 msg=failed to kill - retrying in 100ms
+2020-02-27T15:14:57: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-27T15:14:57: PM2 log: pid=194103 msg=process killed
+2020-02-28T11:41:26: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGKILL]
+2020-02-28T11:41:26: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-28T11:41:26: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGKILL]
+2020-02-28T11:41:26: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGKILL]
+2020-02-28T11:41:26: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-28T11:41:26: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGKILL]
+2020-02-28T11:41:26: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-28T11:41:26: PM2 log: App [log-report-server:3] online
+2020-02-28T11:41:26: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-28T11:41:26: PM2 log: App [log-report-server:0] online
+2020-02-28T11:41:26: PM2 log: App [log-report-server:6] online
+2020-02-28T11:41:26: PM2 log: App [log-report-server:5] online
+2020-02-28T15:18:15: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-02-28T15:18:15: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-02-28T15:18:15: PM2 log: App [log-report-server:0] online
+2020-02-28T15:18:15: PM2 log: App [log-report-server:1] online
+2020-02-28T15:18:16: PM2 log: -reload- New worker listening
+2020-02-28T15:18:16: PM2 log: Stopping app:log-report-server id:_old_0
+2020-02-28T15:18:16: PM2 log: -reload- New worker listening
+2020-02-28T15:18:16: PM2 log: Stopping app:log-report-server id:_old_1
+2020-02-28T15:18:16: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-02-28T15:18:16: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-02-28T15:18:16: PM2 log: pid=43257 msg=process killed
+2020-02-28T15:18:16: PM2 log: pid=196497 msg=failed to kill - retrying in 100ms
+2020-02-28T15:18:16: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-02-28T15:18:16: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-02-28T15:18:16: PM2 log: App [log-report-server:2] online
+2020-02-28T15:18:16: PM2 log: pid=196497 msg=process killed
+2020-02-28T15:18:16: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-02-28T15:18:16: PM2 log: App [log-report-server:3] online
+2020-02-28T15:18:16: PM2 log: -reload- New worker listening
+2020-02-28T15:18:16: PM2 log: Stopping app:log-report-server id:_old_2
+2020-02-28T15:18:16: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-02-28T15:18:16: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-02-28T15:18:16: PM2 log: -reload- New worker listening
+2020-02-28T15:18:16: PM2 log: Stopping app:log-report-server id:_old_3
+2020-02-28T15:18:16: PM2 log: pid=196555 msg=process killed
+2020-02-28T15:18:16: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-02-28T15:18:17: PM2 log: App [log-report-server:4] online
+2020-02-28T15:18:17: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-02-28T15:18:17: PM2 log: pid=43251 msg=process killed
+2020-02-28T15:18:17: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-02-28T15:18:17: PM2 log: App [log-report-server:5] online
+2020-02-28T15:18:17: PM2 log: -reload- New worker listening
+2020-02-28T15:18:17: PM2 log: Stopping app:log-report-server id:_old_4
+2020-02-28T15:18:17: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-02-28T15:18:17: PM2 log: pid=312 msg=failed to kill - retrying in 100ms
+2020-02-28T15:18:17: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-02-28T15:18:17: PM2 log: -reload- New worker listening
+2020-02-28T15:18:17: PM2 log: Stopping app:log-report-server id:_old_5
+2020-02-28T15:18:17: PM2 log: pid=312 msg=process killed
+2020-02-28T15:18:17: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-02-28T15:18:17: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-02-28T15:18:17: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-02-28T15:18:17: PM2 log: App [log-report-server:6] online
+2020-02-28T15:18:17: PM2 log: pid=43276 msg=process killed
+2020-02-28T15:18:18: PM2 log: -reload- New worker listening
+2020-02-28T15:18:18: PM2 log: Stopping app:log-report-server id:_old_6
+2020-02-28T15:18:18: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-02-28T15:18:18: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-02-28T15:18:18: PM2 log: pid=43261 msg=process killed
+2020-03-02T15:46:39: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-03-02T15:46:39: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-03-02T15:46:39: PM2 log: App [log-report-server:0] online
+2020-03-02T15:46:39: PM2 log: App [log-report-server:1] online
+2020-03-02T15:46:39: PM2 log: -reload- New worker listening
+2020-03-02T15:46:39: PM2 log: Stopping app:log-report-server id:_old_1
+2020-03-02T15:46:39: PM2 log: -reload- New worker listening
+2020-03-02T15:46:39: PM2 log: Stopping app:log-report-server id:_old_0
+2020-03-02T15:46:39: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-03-02T15:46:39: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-03-02T15:46:39: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-03-02T15:46:39: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-03-02T15:46:39: PM2 log: pid=85169 msg=process killed
+2020-03-02T15:46:39: PM2 log: pid=85163 msg=process killed
+2020-03-02T15:46:39: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-03-02T15:46:39: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-03-02T15:46:39: PM2 log: App [log-report-server:2] online
+2020-03-02T15:46:39: PM2 log: App [log-report-server:3] online
+2020-03-02T15:46:40: PM2 log: -reload- New worker listening
+2020-03-02T15:46:40: PM2 log: Stopping app:log-report-server id:_old_2
+2020-03-02T15:46:40: PM2 log: -reload- New worker listening
+2020-03-02T15:46:40: PM2 log: Stopping app:log-report-server id:_old_3
+2020-03-02T15:46:40: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-03-02T15:46:40: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-03-02T15:46:40: PM2 log: pid=85228 msg=process killed
+2020-03-02T15:46:40: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-03-02T15:46:40: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-03-02T15:46:40: PM2 log: pid=85239 msg=process killed
+2020-03-02T15:46:40: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-03-02T15:46:40: PM2 log: App [log-report-server:4] online
+2020-03-02T15:46:40: PM2 log: App [log-report-server:5] online
+2020-03-02T15:46:41: PM2 log: -reload- New worker listening
+2020-03-02T15:46:41: PM2 log: Stopping app:log-report-server id:_old_5
+2020-03-02T15:46:41: PM2 log: -reload- New worker listening
+2020-03-02T15:46:41: PM2 log: Stopping app:log-report-server id:_old_4
+2020-03-02T15:46:41: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-03-02T15:46:41: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-03-02T15:46:41: PM2 log: pid=85319 msg=process killed
+2020-03-02T15:46:41: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-03-02T15:46:41: PM2 log: pid=85305 msg=process killed
+2020-03-02T15:46:41: PM2 log: App [log-report-server:6] online
+2020-03-02T15:46:41: PM2 log: -reload- New worker listening
+2020-03-02T15:46:41: PM2 log: Stopping app:log-report-server id:_old_6
+2020-03-02T15:46:42: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-03-02T15:46:42: PM2 log: pid=85382 msg=process killed
+2020-03-02T16:06:17: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-03-02T16:06:17: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-03-02T16:06:17: PM2 log: App [log-report-server:0] online
+2020-03-02T16:06:17: PM2 log: App [log-report-server:1] online
+2020-03-02T16:06:17: PM2 log: -reload- New worker listening
+2020-03-02T16:06:17: PM2 log: Stopping app:log-report-server id:_old_1
+2020-03-02T16:06:17: PM2 log: -reload- New worker listening
+2020-03-02T16:06:17: PM2 log: Stopping app:log-report-server id:_old_0
+2020-03-02T16:06:17: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-03-02T16:06:17: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-03-02T16:06:17: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-03-02T16:06:17: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-03-02T16:06:17: PM2 log: pid=126053 msg=process killed
+2020-03-02T16:06:17: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-03-02T16:06:17: PM2 log: pid=126047 msg=process killed
+2020-03-02T16:06:17: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-03-02T16:06:18: PM2 log: App [log-report-server:2] online
+2020-03-02T16:06:18: PM2 log: App [log-report-server:3] online
+2020-03-02T16:06:18: PM2 log: -reload- New worker listening
+2020-03-02T16:06:18: PM2 log: Stopping app:log-report-server id:_old_2
+2020-03-02T16:06:18: PM2 log: -reload- New worker listening
+2020-03-02T16:06:18: PM2 log: Stopping app:log-report-server id:_old_3
+2020-03-02T16:06:18: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-03-02T16:06:18: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-03-02T16:06:18: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-03-02T16:06:18: PM2 log: pid=126103 msg=process killed
+2020-03-02T16:06:18: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-03-02T16:06:18: PM2 log: pid=126110 msg=process killed
+2020-03-02T16:06:18: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-03-02T16:06:18: PM2 log: App [log-report-server:4] online
+2020-03-02T16:06:18: PM2 log: App [log-report-server:5] online
+2020-03-02T16:06:19: PM2 log: -reload- New worker listening
+2020-03-02T16:06:19: PM2 log: Stopping app:log-report-server id:_old_5
+2020-03-02T16:06:19: PM2 log: -reload- New worker listening
+2020-03-02T16:06:19: PM2 log: Stopping app:log-report-server id:_old_4
+2020-03-02T16:06:19: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-03-02T16:06:19: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-03-02T16:06:19: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-03-02T16:06:19: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-03-02T16:06:19: PM2 log: pid=126179 msg=process killed
+2020-03-02T16:06:19: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-03-02T16:06:19: PM2 log: pid=126172 msg=process killed
+2020-03-02T16:06:19: PM2 log: App [log-report-server:6] online
+2020-03-02T16:06:20: PM2 log: -reload- New worker listening
+2020-03-02T16:06:20: PM2 log: Stopping app:log-report-server id:_old_6
+2020-03-02T16:06:20: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-03-02T16:06:20: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-03-02T16:06:20: PM2 log: pid=126245 msg=process killed
+2020-03-11T00:10:33: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-03-11T00:10:33: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-03-11T00:10:33: PM2 log: App [log-report-server:1] online
+2020-03-11T00:10:33: PM2 log: App [log-report-server:0] online
+2020-03-11T00:10:34: PM2 log: -reload- New worker listening
+2020-03-11T00:10:34: PM2 log: Stopping app:log-report-server id:_old_1
+2020-03-11T00:10:34: PM2 log: -reload- New worker listening
+2020-03-11T00:10:34: PM2 log: Stopping app:log-report-server id:_old_0
+2020-03-11T00:10:34: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-03-11T00:10:34: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-03-11T00:10:34: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-03-11T00:10:34: PM2 log: pid=130592 msg=process killed
+2020-03-11T00:10:34: PM2 log: pid=130586 msg=process killed
+2020-03-11T00:10:34: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-03-11T00:10:34: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-03-11T00:10:34: PM2 log: App [log-report-server:2] online
+2020-03-11T00:10:34: PM2 log: App [log-report-server:3] online
+2020-03-11T00:10:34: PM2 log: -reload- New worker listening
+2020-03-11T00:10:34: PM2 log: Stopping app:log-report-server id:_old_3
+2020-03-11T00:10:34: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-03-11T00:10:34: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-03-11T00:10:35: PM2 log: -reload- New worker listening
+2020-03-11T00:10:35: PM2 log: Stopping app:log-report-server id:_old_2
+2020-03-11T00:10:35: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-03-11T00:10:35: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-03-11T00:10:35: PM2 log: pid=130649 msg=process killed
+2020-03-11T00:10:35: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-03-11T00:10:35: PM2 log: pid=130642 msg=process killed
+2020-03-11T00:10:35: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-03-11T00:10:35: PM2 log: App [log-report-server:4] online
+2020-03-11T00:10:35: PM2 log: App [log-report-server:5] online
+2020-03-11T00:10:35: PM2 log: -reload- New worker listening
+2020-03-11T00:10:35: PM2 log: Stopping app:log-report-server id:_old_4
+2020-03-11T00:10:35: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-03-11T00:10:35: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-03-11T00:10:35: PM2 log: -reload- New worker listening
+2020-03-11T00:10:35: PM2 log: Stopping app:log-report-server id:_old_5
+2020-03-11T00:10:35: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-03-11T00:10:35: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-03-11T00:10:35: PM2 log: pid=130696 msg=process killed
+2020-03-11T00:10:35: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-03-11T00:10:35: PM2 log: App [log-report-server:6] online
+2020-03-11T00:10:35: PM2 log: pid=130703 msg=process killed
+2020-03-11T00:10:36: PM2 log: -reload- New worker listening
+2020-03-11T00:10:36: PM2 log: Stopping app:log-report-server id:_old_6
+2020-03-11T00:10:36: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-03-11T00:10:36: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-03-11T00:10:36: PM2 log: pid=130763 msg=process killed
+2020-03-11T00:29:43: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-03-11T00:29:43: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-03-11T00:29:43: PM2 log: App [log-report-server:0] online
+2020-03-11T00:29:43: PM2 log: App [log-report-server:1] online
+2020-03-11T00:29:44: PM2 log: -reload- New worker listening
+2020-03-11T00:29:44: PM2 log: Stopping app:log-report-server id:_old_1
+2020-03-11T00:29:44: PM2 log: -reload- New worker listening
+2020-03-11T00:29:44: PM2 log: Stopping app:log-report-server id:_old_0
+2020-03-11T00:29:44: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-03-11T00:29:44: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-03-11T00:29:44: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-03-11T00:29:44: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-03-11T00:29:44: PM2 log: pid=178597 msg=process killed
+2020-03-11T00:29:44: PM2 log: pid=178591 msg=process killed
+2020-03-11T00:29:44: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-03-11T00:29:44: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-03-11T00:29:44: PM2 log: App [log-report-server:2] online
+2020-03-11T00:29:44: PM2 log: App [log-report-server:3] online
+2020-03-11T00:29:44: PM2 log: -reload- New worker listening
+2020-03-11T00:29:44: PM2 log: Stopping app:log-report-server id:_old_2
+2020-03-11T00:29:44: PM2 log: -reload- New worker listening
+2020-03-11T00:29:44: PM2 log: Stopping app:log-report-server id:_old_3
+2020-03-11T00:29:44: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-03-11T00:29:44: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-03-11T00:29:44: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-03-11T00:29:44: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-03-11T00:29:44: PM2 log: pid=178646 msg=process killed
+2020-03-11T00:29:44: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-03-11T00:29:44: PM2 log: pid=178652 msg=process killed
+2020-03-11T00:29:44: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-03-11T00:29:44: PM2 log: App [log-report-server:4] online
+2020-03-11T00:29:45: PM2 log: App [log-report-server:5] online
+2020-03-11T00:29:45: PM2 log: -reload- New worker listening
+2020-03-11T00:29:45: PM2 log: Stopping app:log-report-server id:_old_4
+2020-03-11T00:29:45: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-03-11T00:29:45: PM2 log: -reload- New worker listening
+2020-03-11T00:29:45: PM2 log: Stopping app:log-report-server id:_old_5
+2020-03-11T00:29:45: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-03-11T00:29:45: PM2 log: pid=178722 msg=process killed
+2020-03-11T00:29:45: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-03-11T00:29:45: PM2 log: pid=178731 msg=process killed
+2020-03-11T00:29:45: PM2 log: App [log-report-server:6] online
+2020-03-11T00:29:46: PM2 log: -reload- New worker listening
+2020-03-11T00:29:46: PM2 log: Stopping app:log-report-server id:_old_6
+2020-03-11T00:29:46: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-03-11T00:29:46: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-03-11T00:29:46: PM2 log: pid=178776 msg=process killed
+2020-06-11T20:22:19: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-06-11T20:22:19: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-06-11T20:22:19: PM2 log: App [log-report-server:0] online
+2020-06-11T20:22:19: PM2 log: App [log-report-server:1] online
+2020-06-11T20:22:21: PM2 log: -reload- New worker listening
+2020-06-11T20:22:21: PM2 log: Stopping app:log-report-server id:_old_0
+2020-06-11T20:22:21: PM2 log: -reload- New worker listening
+2020-06-11T20:22:21: PM2 log: Stopping app:log-report-server id:_old_1
+2020-06-11T20:22:21: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-06-11T20:22:21: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-06-11T20:22:21: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-06-11T20:22:21: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-06-11T20:22:21: PM2 log: pid=182855 msg=process killed
+2020-06-11T20:22:21: PM2 log: pid=182861 msg=process killed
+2020-06-11T20:22:21: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-06-11T20:22:21: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-06-11T20:22:21: PM2 log: App [log-report-server:3] online
+2020-06-11T20:22:21: PM2 log: App [log-report-server:2] online
+2020-06-11T20:22:21: PM2 log: -reload- New worker listening
+2020-06-11T20:22:21: PM2 log: Stopping app:log-report-server id:_old_3
+2020-06-11T20:22:22: PM2 log: -reload- New worker listening
+2020-06-11T20:22:22: PM2 log: Stopping app:log-report-server id:_old_2
+2020-06-11T20:22:22: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-06-11T20:22:22: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-06-11T20:22:22: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-06-11T20:22:22: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-06-11T20:22:22: PM2 log: pid=182916 msg=process killed
+2020-06-11T20:22:22: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-06-11T20:22:22: PM2 log: pid=182909 msg=process killed
+2020-06-11T20:22:22: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-06-11T20:22:22: PM2 log: App [log-report-server:4] online
+2020-06-11T20:22:22: PM2 log: App [log-report-server:5] online
+2020-06-11T20:22:22: PM2 log: -reload- New worker listening
+2020-06-11T20:22:22: PM2 log: Stopping app:log-report-server id:_old_4
+2020-06-11T20:22:22: PM2 log: -reload- New worker listening
+2020-06-11T20:22:22: PM2 log: Stopping app:log-report-server id:_old_5
+2020-06-11T20:22:22: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-06-11T20:22:22: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-06-11T20:22:22: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-06-11T20:22:22: PM2 log: pid=182963 msg=process killed
+2020-06-11T20:22:22: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-06-11T20:22:22: PM2 log: pid=182970 msg=process killed
+2020-06-11T20:22:22: PM2 log: App [log-report-server:6] online
+2020-06-11T20:22:23: PM2 log: -reload- New worker listening
+2020-06-11T20:22:23: PM2 log: Stopping app:log-report-server id:_old_6
+2020-06-11T20:22:23: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-06-11T20:22:23: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-06-11T20:22:23: PM2 log: pid=183018 msg=process killed
+2020-07-25T00:32:36: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-07-25T00:32:36: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-07-25T00:32:36: PM2 log: App [log-report-server:0] online
+2020-07-25T00:32:36: PM2 log: App [log-report-server:1] online
+2020-07-25T00:32:36: PM2 log: -reload- New worker listening
+2020-07-25T00:32:36: PM2 log: Stopping app:log-report-server id:_old_0
+2020-07-25T00:32:36: PM2 log: -reload- New worker listening
+2020-07-25T00:32:36: PM2 log: Stopping app:log-report-server id:_old_1
+2020-07-25T00:32:36: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-07-25T00:32:36: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-07-25T00:32:36: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-07-25T00:32:36: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-07-25T00:32:36: PM2 log: pid=172873 msg=process killed
+2020-07-25T00:32:36: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-07-25T00:32:36: PM2 log: pid=172879 msg=process killed
+2020-07-25T00:32:36: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-07-25T00:32:36: PM2 log: App [log-report-server:2] online
+2020-07-25T00:32:36: PM2 log: App [log-report-server:3] online
+2020-07-25T00:32:37: PM2 log: -reload- New worker listening
+2020-07-25T00:32:37: PM2 log: Stopping app:log-report-server id:_old_2
+2020-07-25T00:32:37: PM2 log: -reload- New worker listening
+2020-07-25T00:32:37: PM2 log: Stopping app:log-report-server id:_old_3
+2020-07-25T00:32:37: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-07-25T00:32:37: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-07-25T00:32:37: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-07-25T00:32:37: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-07-25T00:32:37: PM2 log: pid=172929 msg=process killed
+2020-07-25T00:32:37: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-07-25T00:32:37: PM2 log: pid=172930 msg=process killed
+2020-07-25T00:32:37: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-07-25T00:32:37: PM2 log: App [log-report-server:4] online
+2020-07-25T00:32:37: PM2 log: App [log-report-server:5] online
+2020-07-25T00:32:37: PM2 log: -reload- New worker listening
+2020-07-25T00:32:37: PM2 log: Stopping app:log-report-server id:_old_5
+2020-07-25T00:32:37: PM2 log: -reload- New worker listening
+2020-07-25T00:32:37: PM2 log: Stopping app:log-report-server id:_old_4
+2020-07-25T00:32:37: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-07-25T00:32:37: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-07-25T00:32:37: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-07-25T00:32:37: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-07-25T00:32:37: PM2 log: pid=172990 msg=process killed
+2020-07-25T00:32:37: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-07-25T00:32:37: PM2 log: pid=172983 msg=process killed
+2020-07-25T00:32:37: PM2 log: App [log-report-server:6] online
+2020-07-25T00:32:38: PM2 log: -reload- New worker listening
+2020-07-25T00:32:38: PM2 log: Stopping app:log-report-server id:_old_6
+2020-07-25T00:32:38: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-07-25T00:32:38: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-07-25T00:32:38: PM2 log: pid=173037 msg=process killed
+2020-08-05T22:49:20: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-08-05T22:49:20: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-08-05T22:49:20: PM2 log: App [log-report-server:0] online
+2020-08-05T22:49:20: PM2 log: App [log-report-server:1] online
+2020-08-05T22:49:21: PM2 log: -reload- New worker listening
+2020-08-05T22:49:21: PM2 log: Stopping app:log-report-server id:_old_0
+2020-08-05T22:49:21: PM2 log: -reload- New worker listening
+2020-08-05T22:49:21: PM2 log: Stopping app:log-report-server id:_old_1
+2020-08-05T22:49:21: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-08-05T22:49:21: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-08-05T22:49:21: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-08-05T22:49:21: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-08-05T22:49:21: PM2 log: pid=30091 msg=process killed
+2020-08-05T22:49:21: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-08-05T22:49:21: PM2 log: pid=30094 msg=process killed
+2020-08-05T22:49:21: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-08-05T22:49:21: PM2 log: App [log-report-server:2] online
+2020-08-05T22:49:21: PM2 log: App [log-report-server:3] online
+2020-08-05T22:49:21: PM2 log: -reload- New worker listening
+2020-08-05T22:49:21: PM2 log: Stopping app:log-report-server id:_old_2
+2020-08-05T22:49:21: PM2 log: -reload- New worker listening
+2020-08-05T22:49:21: PM2 log: Stopping app:log-report-server id:_old_3
+2020-08-05T22:49:21: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-08-05T22:49:21: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-08-05T22:49:21: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-08-05T22:49:21: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-08-05T22:49:21: PM2 log: pid=30147 msg=process killed
+2020-08-05T22:49:21: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-08-05T22:49:21: PM2 log: pid=30154 msg=process killed
+2020-08-05T22:49:21: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-08-05T22:49:21: PM2 log: App [log-report-server:5] online
+2020-08-05T22:49:21: PM2 log: App [log-report-server:4] online
+2020-08-05T22:49:22: PM2 log: -reload- New worker listening
+2020-08-05T22:49:22: PM2 log: Stopping app:log-report-server id:_old_4
+2020-08-05T22:49:22: PM2 log: -reload- New worker listening
+2020-08-05T22:49:22: PM2 log: Stopping app:log-report-server id:_old_5
+2020-08-05T22:49:22: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-08-05T22:49:22: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-08-05T22:49:22: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-08-05T22:49:22: PM2 log: pid=30202 msg=process killed
+2020-08-05T22:49:22: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-08-05T22:49:22: PM2 log: pid=30209 msg=process killed
+2020-08-05T22:49:22: PM2 log: App [log-report-server:6] online
+2020-08-05T22:49:22: PM2 log: -reload- New worker listening
+2020-08-05T22:49:22: PM2 log: Stopping app:log-report-server id:_old_6
+2020-08-05T22:49:22: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-08-05T22:49:22: PM2 log: pid=30257 msg=process killed
+2020-08-31T20:07:51: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-08-31T20:07:51: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-08-31T20:07:51: PM2 log: App [log-report-server:0] online
+2020-08-31T20:07:51: PM2 log: App [log-report-server:1] online
+2020-08-31T20:07:52: PM2 log: -reload- New worker listening
+2020-08-31T20:07:52: PM2 log: Stopping app:log-report-server id:_old_0
+2020-08-31T20:07:52: PM2 log: -reload- New worker listening
+2020-08-31T20:07:52: PM2 log: Stopping app:log-report-server id:_old_1
+2020-08-31T20:07:52: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-08-31T20:07:52: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-08-31T20:07:52: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-08-31T20:07:52: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-08-31T20:07:52: PM2 log: pid=144521 msg=process killed
+2020-08-31T20:07:52: PM2 log: pid=144527 msg=process killed
+2020-08-31T20:07:52: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-08-31T20:07:52: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-08-31T20:07:52: PM2 log: App [log-report-server:2] online
+2020-08-31T20:07:52: PM2 log: App [log-report-server:3] online
+2020-08-31T20:07:52: PM2 log: -reload- New worker listening
+2020-08-31T20:07:52: PM2 log: Stopping app:log-report-server id:_old_3
+2020-08-31T20:07:52: PM2 log: -reload- New worker listening
+2020-08-31T20:07:52: PM2 log: Stopping app:log-report-server id:_old_2
+2020-08-31T20:07:52: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-08-31T20:07:52: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-08-31T20:07:52: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-08-31T20:07:52: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-08-31T20:07:52: PM2 log: pid=144603 msg=process killed
+2020-08-31T20:07:52: PM2 log: pid=144596 msg=process killed
+2020-08-31T20:07:52: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-08-31T20:07:52: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-08-31T20:07:52: PM2 log: App [log-report-server:4] online
+2020-08-31T20:07:52: PM2 log: App [log-report-server:5] online
+2020-08-31T20:07:53: PM2 log: -reload- New worker listening
+2020-08-31T20:07:53: PM2 log: Stopping app:log-report-server id:_old_4
+2020-08-31T20:07:53: PM2 log: -reload- New worker listening
+2020-08-31T20:07:53: PM2 log: Stopping app:log-report-server id:_old_5
+2020-08-31T20:07:53: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-08-31T20:07:53: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-08-31T20:07:53: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-08-31T20:07:53: PM2 log: pid=144651 msg=process killed
+2020-08-31T20:07:53: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-08-31T20:07:53: PM2 log: pid=144657 msg=process killed
+2020-08-31T20:07:53: PM2 log: App [log-report-server:6] online
+2020-08-31T20:07:53: PM2 log: -reload- New worker listening
+2020-08-31T20:07:53: PM2 log: Stopping app:log-report-server id:_old_6
+2020-08-31T20:07:54: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-08-31T20:07:54: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-08-31T20:07:54: PM2 log: pid=144706 msg=process killed
+2020-09-24T21:16:05: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-09-24T21:16:05: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-09-24T21:16:05: PM2 log: App [log-report-server:0] online
+2020-09-24T21:16:05: PM2 log: App [log-report-server:1] online
+2020-09-24T21:16:06: PM2 log: -reload- New worker listening
+2020-09-24T21:16:06: PM2 log: Stopping app:log-report-server id:_old_1
+2020-09-24T21:16:06: PM2 log: -reload- New worker listening
+2020-09-24T21:16:06: PM2 log: Stopping app:log-report-server id:_old_0
+2020-09-24T21:16:06: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-09-24T21:16:06: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-09-24T21:16:06: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:06: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:06: PM2 log: pid=92476 msg=process killed
+2020-09-24T21:16:06: PM2 log: pid=92470 msg=process killed
+2020-09-24T21:16:06: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-09-24T21:16:06: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-09-24T21:16:06: PM2 log: App [log-report-server:2] online
+2020-09-24T21:16:06: PM2 log: App [log-report-server:3] online
+2020-09-24T21:16:06: PM2 log: -reload- New worker listening
+2020-09-24T21:16:06: PM2 log: Stopping app:log-report-server id:_old_2
+2020-09-24T21:16:06: PM2 log: -reload- New worker listening
+2020-09-24T21:16:06: PM2 log: Stopping app:log-report-server id:_old_3
+2020-09-24T21:16:06: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-09-24T21:16:06: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:06: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-09-24T21:16:06: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:06: PM2 log: pid=92538 msg=process killed
+2020-09-24T21:16:06: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-09-24T21:16:06: PM2 log: pid=92544 msg=process killed
+2020-09-24T21:16:06: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-09-24T21:16:06: PM2 log: App [log-report-server:5] online
+2020-09-24T21:16:06: PM2 log: App [log-report-server:4] online
+2020-09-24T21:16:07: PM2 log: -reload- New worker listening
+2020-09-24T21:16:07: PM2 log: Stopping app:log-report-server id:_old_5
+2020-09-24T21:16:07: PM2 log: -reload- New worker listening
+2020-09-24T21:16:07: PM2 log: Stopping app:log-report-server id:_old_4
+2020-09-24T21:16:07: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-09-24T21:16:07: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:07: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-09-24T21:16:07: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:07: PM2 log: pid=92617 msg=process killed
+2020-09-24T21:16:07: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-09-24T21:16:07: PM2 log: pid=92611 msg=process killed
+2020-09-24T21:16:07: PM2 log: App [log-report-server:6] online
+2020-09-24T21:16:07: PM2 log: -reload- New worker listening
+2020-09-24T21:16:07: PM2 log: Stopping app:log-report-server id:_old_6
+2020-09-24T21:16:07: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-09-24T21:16:07: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:07: PM2 log: pid=92666 msg=process killed
+2020-09-24T21:16:41: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-09-24T21:16:41: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-09-24T21:16:41: PM2 log: App [log-report-server:0] online
+2020-09-24T21:16:41: PM2 log: App [log-report-server:1] online
+2020-09-24T21:16:42: PM2 log: -reload- New worker listening
+2020-09-24T21:16:42: PM2 log: Stopping app:log-report-server id:_old_0
+2020-09-24T21:16:42: PM2 log: -reload- New worker listening
+2020-09-24T21:16:42: PM2 log: Stopping app:log-report-server id:_old_1
+2020-09-24T21:16:42: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-09-24T21:16:42: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:42: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-09-24T21:16:42: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:42: PM2 log: pid=34655 msg=process killed
+2020-09-24T21:16:42: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-09-24T21:16:42: PM2 log: pid=34661 msg=process killed
+2020-09-24T21:16:42: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-09-24T21:16:42: PM2 log: App [log-report-server:2] online
+2020-09-24T21:16:42: PM2 log: App [log-report-server:3] online
+2020-09-24T21:16:42: PM2 log: -reload- New worker listening
+2020-09-24T21:16:42: PM2 log: Stopping app:log-report-server id:_old_2
+2020-09-24T21:16:42: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-09-24T21:16:42: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:42: PM2 log: -reload- New worker listening
+2020-09-24T21:16:42: PM2 log: Stopping app:log-report-server id:_old_3
+2020-09-24T21:16:42: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-09-24T21:16:42: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:42: PM2 log: pid=34712 msg=process killed
+2020-09-24T21:16:42: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-09-24T21:16:42: PM2 log: pid=34716 msg=process killed
+2020-09-24T21:16:42: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-09-24T21:16:42: PM2 log: App [log-report-server:4] online
+2020-09-24T21:16:42: PM2 log: App [log-report-server:5] online
+2020-09-24T21:16:43: PM2 log: -reload- New worker listening
+2020-09-24T21:16:43: PM2 log: Stopping app:log-report-server id:_old_4
+2020-09-24T21:16:43: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:43: PM2 log: -reload- New worker listening
+2020-09-24T21:16:43: PM2 log: Stopping app:log-report-server id:_old_5
+2020-09-24T21:16:43: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-09-24T21:16:43: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:43: PM2 log: pid=34767 msg=process killed
+2020-09-24T21:16:43: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-09-24T21:16:43: PM2 log: pid=34774 msg=process killed
+2020-09-24T21:16:43: PM2 log: App [log-report-server:6] online
+2020-09-24T21:16:43: PM2 log: -reload- New worker listening
+2020-09-24T21:16:43: PM2 log: Stopping app:log-report-server id:_old_6
+2020-09-24T21:16:43: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-09-24T21:16:43: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-09-24T21:16:43: PM2 log: pid=34821 msg=process killed
+2020-10-28T21:09:06: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-10-28T21:09:06: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-10-28T21:09:06: PM2 log: App [log-report-server:1] online
+2020-10-28T21:09:06: PM2 log: App [log-report-server:0] online
+2020-10-28T21:09:06: PM2 log: -reload- New worker listening
+2020-10-28T21:09:06: PM2 log: Stopping app:log-report-server id:_old_1
+2020-10-28T21:09:06: PM2 log: -reload- New worker listening
+2020-10-28T21:09:06: PM2 log: Stopping app:log-report-server id:_old_0
+2020-10-28T21:09:06: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-10-28T21:09:06: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-10-28T21:09:06: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-10-28T21:09:06: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-10-28T21:09:06: PM2 log: pid=35111 msg=process killed
+2020-10-28T21:09:06: PM2 log: pid=35106 msg=process killed
+2020-10-28T21:09:06: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-10-28T21:09:06: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-10-28T21:09:06: PM2 log: App [log-report-server:2] online
+2020-10-28T21:09:06: PM2 log: App [log-report-server:3] online
+2020-10-28T21:09:07: PM2 log: -reload- New worker listening
+2020-10-28T21:09:07: PM2 log: Stopping app:log-report-server id:_old_2
+2020-10-28T21:09:07: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-10-28T21:09:07: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-10-28T21:09:07: PM2 log: -reload- New worker listening
+2020-10-28T21:09:07: PM2 log: Stopping app:log-report-server id:_old_3
+2020-10-28T21:09:07: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-10-28T21:09:07: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-10-28T21:09:07: PM2 log: pid=35161 msg=process killed
+2020-10-28T21:09:07: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-10-28T21:09:07: PM2 log: pid=35167 msg=process killed
+2020-10-28T21:09:07: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-10-28T21:09:07: PM2 log: App [log-report-server:4] online
+2020-10-28T21:09:07: PM2 log: App [log-report-server:5] online
+2020-10-28T21:09:07: PM2 log: -reload- New worker listening
+2020-10-28T21:09:07: PM2 log: Stopping app:log-report-server id:_old_4
+2020-10-28T21:09:07: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-10-28T21:09:07: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-10-28T21:09:07: PM2 log: -reload- New worker listening
+2020-10-28T21:09:07: PM2 log: Stopping app:log-report-server id:_old_5
+2020-10-28T21:09:07: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-10-28T21:09:07: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-10-28T21:09:07: PM2 log: pid=35215 msg=process killed
+2020-10-28T21:09:07: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-10-28T21:09:08: PM2 log: pid=35222 msg=process killed
+2020-10-28T21:09:08: PM2 log: App [log-report-server:6] online
+2020-10-28T21:09:08: PM2 log: -reload- New worker listening
+2020-10-28T21:09:08: PM2 log: Stopping app:log-report-server id:_old_6
+2020-10-28T21:09:08: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-10-28T21:09:08: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-10-28T21:09:08: PM2 log: pid=35269 msg=process killed
+2020-11-30T22:02:17: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-11-30T22:02:17: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-11-30T22:02:17: PM2 log: App [log-report-server:0] online
+2020-11-30T22:02:17: PM2 log: App [log-report-server:1] online
+2020-11-30T22:02:17: PM2 log: -reload- New worker listening
+2020-11-30T22:02:17: PM2 log: Stopping app:log-report-server id:_old_0
+2020-11-30T22:02:17: PM2 log: -reload- New worker listening
+2020-11-30T22:02:17: PM2 log: Stopping app:log-report-server id:_old_1
+2020-11-30T22:02:17: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-11-30T22:02:17: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-11-30T22:02:17: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-11-30T22:02:17: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-11-30T22:02:17: PM2 log: pid=154941 msg=process killed
+2020-11-30T22:02:17: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-11-30T22:02:17: PM2 log: pid=154947 msg=process killed
+2020-11-30T22:02:17: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-11-30T22:02:17: PM2 log: App [log-report-server:2] online
+2020-11-30T22:02:17: PM2 log: App [log-report-server:3] online
+2020-11-30T22:02:18: PM2 log: -reload- New worker listening
+2020-11-30T22:02:18: PM2 log: Stopping app:log-report-server id:_old_2
+2020-11-30T22:02:18: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-11-30T22:02:18: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-11-30T22:02:18: PM2 log: -reload- New worker listening
+2020-11-30T22:02:18: PM2 log: Stopping app:log-report-server id:_old_3
+2020-11-30T22:02:18: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-11-30T22:02:18: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-11-30T22:02:18: PM2 log: pid=154996 msg=process killed
+2020-11-30T22:02:18: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-11-30T22:02:18: PM2 log: pid=155002 msg=process killed
+2020-11-30T22:02:18: PM2 log: App [log-report-server:4] online
+2020-11-30T22:02:18: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-11-30T22:02:18: PM2 log: App [log-report-server:5] online
+2020-11-30T22:02:18: PM2 log: -reload- New worker listening
+2020-11-30T22:02:18: PM2 log: Stopping app:log-report-server id:_old_4
+2020-11-30T22:02:18: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-11-30T22:02:18: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-11-30T22:02:18: PM2 log: -reload- New worker listening
+2020-11-30T22:02:18: PM2 log: Stopping app:log-report-server id:_old_5
+2020-11-30T22:02:18: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-11-30T22:02:18: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-11-30T22:02:18: PM2 log: pid=155050 msg=process killed
+2020-11-30T22:02:18: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-11-30T22:02:18: PM2 log: App [log-report-server:6] online
+2020-11-30T22:02:18: PM2 log: pid=155059 msg=process killed
+2020-11-30T22:02:19: PM2 log: -reload- New worker listening
+2020-11-30T22:02:19: PM2 log: Stopping app:log-report-server id:_old_6
+2020-11-30T22:02:19: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-11-30T22:02:19: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-11-30T22:02:19: PM2 log: pid=155105 msg=process killed
+2020-12-01T01:35:20: PM2 log: ===============================================================================
+2020-12-01T01:35:20: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-12-01T01:35:20: PM2 log: Time                 : Tue Dec 01 2020 01:35:20 GMT+0800 (Coordinated Universal Time)
+2020-12-01T01:35:20: PM2 log: PM2 version          : 4.1.2
+2020-12-01T01:35:20: PM2 log: Node.js version      : 12.13.0
+2020-12-01T01:35:20: PM2 log: Current arch         : x64
+2020-12-01T01:35:20: PM2 log: PM2 home             : /root/.pm2
+2020-12-01T01:35:20: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-12-01T01:35:20: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-12-01T01:35:20: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-12-01T01:35:20: PM2 log: Application log path : /root/.pm2/logs
+2020-12-01T01:35:20: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-12-01T01:35:20: PM2 log: Concurrent actions   : 2
+2020-12-01T01:35:20: PM2 log: SIGTERM timeout      : 1600
+2020-12-01T01:35:20: PM2 log: ===============================================================================
+2020-12-01T01:35:20: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-12-01T01:35:20: PM2 log: App [log-report-server:0] online
+2020-12-01T01:35:20: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-12-01T01:35:20: PM2 log: App [log-report-server:1] online
+2020-12-01T01:35:20: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-12-01T01:35:20: PM2 log: App [log-report-server:2] online
+2020-12-01T01:35:20: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-12-01T01:35:20: PM2 log: App [log-report-server:3] online
+2020-12-01T01:35:20: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-12-01T01:35:20: PM2 log: App [log-report-server:4] online
+2020-12-01T01:35:20: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-12-01T01:35:20: PM2 log: App [log-report-server:5] online
+2020-12-01T01:35:20: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-12-01T01:35:20: PM2 log: App [log-report-server:6] online
+2020-12-13T00:05:33: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-12-13T00:05:33: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-12-13T00:05:33: PM2 log: App [log-report-server:0] online
+2020-12-13T00:05:33: PM2 log: App [log-report-server:1] online
+2020-12-13T00:05:33: PM2 log: -reload- New worker listening
+2020-12-13T00:05:33: PM2 log: Stopping app:log-report-server id:_old_1
+2020-12-13T00:05:33: PM2 log: -reload- New worker listening
+2020-12-13T00:05:33: PM2 log: Stopping app:log-report-server id:_old_0
+2020-12-13T00:05:33: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-12-13T00:05:33: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-12-13T00:05:33: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-12-13T00:05:33: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-12-13T00:05:34: PM2 log: pid=387 msg=process killed
+2020-12-13T00:05:34: PM2 log: pid=378 msg=process killed
+2020-12-13T00:05:34: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-12-13T00:05:34: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-12-13T00:05:34: PM2 log: App [log-report-server:2] online
+2020-12-13T00:05:34: PM2 log: App [log-report-server:3] online
+2020-12-13T00:05:34: PM2 log: -reload- New worker listening
+2020-12-13T00:05:34: PM2 log: Stopping app:log-report-server id:_old_3
+2020-12-13T00:05:34: PM2 log: -reload- New worker listening
+2020-12-13T00:05:34: PM2 log: Stopping app:log-report-server id:_old_2
+2020-12-13T00:05:34: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-12-13T00:05:34: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-12-13T00:05:34: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-12-13T00:05:34: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-12-13T00:05:34: PM2 log: pid=409 msg=process killed
+2020-12-13T00:05:34: PM2 log: pid=398 msg=process killed
+2020-12-13T00:05:34: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-12-13T00:05:34: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-12-13T00:05:34: PM2 log: App [log-report-server:4] online
+2020-12-13T00:05:34: PM2 log: App [log-report-server:5] online
+2020-12-13T00:05:35: PM2 log: -reload- New worker listening
+2020-12-13T00:05:35: PM2 log: Stopping app:log-report-server id:_old_4
+2020-12-13T00:05:35: PM2 log: -reload- New worker listening
+2020-12-13T00:05:35: PM2 log: Stopping app:log-report-server id:_old_5
+2020-12-13T00:05:35: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-12-13T00:05:35: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-12-13T00:05:35: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-12-13T00:05:35: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-12-13T00:05:35: PM2 log: pid=425 msg=process killed
+2020-12-13T00:05:35: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-12-13T00:05:35: PM2 log: pid=436 msg=process killed
+2020-12-13T00:05:35: PM2 log: App [log-report-server:6] online
+2020-12-13T00:05:35: PM2 log: -reload- New worker listening
+2020-12-13T00:05:35: PM2 log: Stopping app:log-report-server id:_old_6
+2020-12-13T00:05:35: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-12-13T00:05:35: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-12-13T00:05:35: PM2 log: pid=456 msg=process killed
+2020-12-18T22:01:08: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-12-18T22:01:08: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-12-18T22:01:08: PM2 log: App [log-report-server:1] online
+2020-12-18T22:01:08: PM2 log: App [log-report-server:0] online
+2020-12-18T22:01:09: PM2 log: -reload- New worker listening
+2020-12-18T22:01:09: PM2 log: Stopping app:log-report-server id:_old_0
+2020-12-18T22:01:09: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-12-18T22:01:09: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-12-18T22:01:09: PM2 log: -reload- New worker listening
+2020-12-18T22:01:09: PM2 log: Stopping app:log-report-server id:_old_1
+2020-12-18T22:01:09: PM2 log: pid=60883 msg=process killed
+2020-12-18T22:01:09: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-12-18T22:01:09: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-12-18T22:01:09: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-12-18T22:01:09: PM2 log: App [log-report-server:2] online
+2020-12-18T22:01:09: PM2 log: pid=60889 msg=process killed
+2020-12-18T22:01:09: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-12-18T22:01:09: PM2 log: App [log-report-server:3] online
+2020-12-18T22:01:10: PM2 log: -reload- New worker listening
+2020-12-18T22:01:10: PM2 log: Stopping app:log-report-server id:_old_2
+2020-12-18T22:01:10: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-12-18T22:01:10: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-12-18T22:01:10: PM2 log: pid=60938 msg=process killed
+2020-12-18T22:01:10: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-12-18T22:01:10: PM2 log: -reload- New worker listening
+2020-12-18T22:01:10: PM2 log: Stopping app:log-report-server id:_old_3
+2020-12-18T22:01:10: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-12-18T22:01:10: PM2 log: App [log-report-server:4] online
+2020-12-18T22:01:10: PM2 log: pid=60940 msg=process killed
+2020-12-18T22:01:10: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-12-18T22:01:10: PM2 log: App [log-report-server:5] online
+2020-12-18T22:01:11: PM2 log: -reload- New worker listening
+2020-12-18T22:01:11: PM2 log: Stopping app:log-report-server id:_old_4
+2020-12-18T22:01:11: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-12-18T22:01:11: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-12-18T22:01:11: PM2 log: pid=60993 msg=process killed
+2020-12-18T22:01:11: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-12-18T22:01:11: PM2 log: -reload- New worker listening
+2020-12-18T22:01:11: PM2 log: Stopping app:log-report-server id:_old_5
+2020-12-18T22:01:11: PM2 log: App [log-report-server:6] online
+2020-12-18T22:01:11: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-12-18T22:01:11: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-12-18T22:01:11: PM2 log: pid=60995 msg=process killed
+2020-12-18T22:01:11: PM2 log: -reload- New worker listening
+2020-12-18T22:01:11: PM2 log: Stopping app:log-report-server id:_old_6
+2020-12-18T22:01:11: PM2 log: App name:log-report-server id:_old_6 disconnected
+2020-12-18T22:01:11: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-12-18T22:01:11: PM2 log: pid=61048 msg=process killed
+2020-12-29T16:58:06: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2020-12-29T16:58:06: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2020-12-29T16:58:06: PM2 log: App [log-report-server:0] online
+2020-12-29T16:58:06: PM2 log: App [log-report-server:1] online
+2020-12-29T16:58:07: PM2 log: -reload- New worker listening
+2020-12-29T16:58:07: PM2 log: Stopping app:log-report-server id:_old_1
+2020-12-29T16:58:07: PM2 log: -reload- New worker listening
+2020-12-29T16:58:07: PM2 log: Stopping app:log-report-server id:_old_0
+2020-12-29T16:58:07: PM2 log: App name:log-report-server id:_old_1 disconnected
+2020-12-29T16:58:07: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2020-12-29T16:58:07: PM2 log: App name:log-report-server id:_old_0 disconnected
+2020-12-29T16:58:07: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2020-12-29T16:58:07: PM2 log: pid=16146 msg=process killed
+2020-12-29T16:58:07: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2020-12-29T16:58:07: PM2 log: pid=16140 msg=process killed
+2020-12-29T16:58:07: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2020-12-29T16:58:07: PM2 log: App [log-report-server:2] online
+2020-12-29T16:58:07: PM2 log: App [log-report-server:3] online
+2020-12-29T16:58:08: PM2 log: -reload- New worker listening
+2020-12-29T16:58:08: PM2 log: Stopping app:log-report-server id:_old_2
+2020-12-29T16:58:08: PM2 log: -reload- New worker listening
+2020-12-29T16:58:08: PM2 log: Stopping app:log-report-server id:_old_3
+2020-12-29T16:58:08: PM2 log: App name:log-report-server id:_old_2 disconnected
+2020-12-29T16:58:08: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2020-12-29T16:58:08: PM2 log: App name:log-report-server id:_old_3 disconnected
+2020-12-29T16:58:08: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2020-12-29T16:58:08: PM2 log: pid=16196 msg=process killed
+2020-12-29T16:58:08: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2020-12-29T16:58:08: PM2 log: pid=16207 msg=process killed
+2020-12-29T16:58:08: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2020-12-29T16:58:08: PM2 log: App [log-report-server:4] online
+2020-12-29T16:58:08: PM2 log: App [log-report-server:5] online
+2020-12-29T16:58:08: PM2 log: -reload- New worker listening
+2020-12-29T16:58:08: PM2 log: Stopping app:log-report-server id:_old_4
+2020-12-29T16:58:09: PM2 log: App name:log-report-server id:_old_4 disconnected
+2020-12-29T16:58:09: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2020-12-29T16:58:09: PM2 log: pid=16249 msg=process killed
+2020-12-29T16:58:09: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2020-12-29T16:58:09: PM2 log: -reload- New worker listening
+2020-12-29T16:58:09: PM2 log: Stopping app:log-report-server id:_old_5
+2020-12-29T16:58:09: PM2 log: App [log-report-server:6] online
+2020-12-29T16:58:09: PM2 log: App name:log-report-server id:_old_5 disconnected
+2020-12-29T16:58:09: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2020-12-29T16:58:09: PM2 log: pid=16261 msg=process killed
+2020-12-29T16:58:09: PM2 log: -reload- New worker listening
+2020-12-29T16:58:09: PM2 log: Stopping app:log-report-server id:_old_6
+2020-12-29T16:58:09: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2020-12-29T16:58:09: PM2 log: pid=16295 msg=process killed
+2021-01-18T23:19:33: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-01-18T23:19:33: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-01-18T23:19:33: PM2 log: App [log-report-server:0] online
+2021-01-18T23:19:33: PM2 log: App [log-report-server:1] online
+2021-01-18T23:19:33: PM2 log: -reload- New worker listening
+2021-01-18T23:19:33: PM2 log: Stopping app:log-report-server id:_old_0
+2021-01-18T23:19:33: PM2 log: -reload- New worker listening
+2021-01-18T23:19:33: PM2 log: Stopping app:log-report-server id:_old_1
+2021-01-18T23:19:33: PM2 log: App name:log-report-server id:_old_0 disconnected
+2021-01-18T23:19:33: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2021-01-18T23:19:33: PM2 log: App name:log-report-server id:_old_1 disconnected
+2021-01-18T23:19:33: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2021-01-18T23:19:33: PM2 log: pid=10062 msg=process killed
+2021-01-18T23:19:33: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-01-18T23:19:33: PM2 log: pid=10068 msg=process killed
+2021-01-18T23:19:33: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-18T23:19:33: PM2 log: App [log-report-server:2] online
+2021-01-18T23:19:33: PM2 log: App [log-report-server:3] online
+2021-01-18T23:19:34: PM2 log: -reload- New worker listening
+2021-01-18T23:19:34: PM2 log: Stopping app:log-report-server id:_old_2
+2021-01-18T23:19:34: PM2 log: App name:log-report-server id:_old_2 disconnected
+2021-01-18T23:19:34: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2021-01-18T23:19:34: PM2 log: -reload- New worker listening
+2021-01-18T23:19:34: PM2 log: Stopping app:log-report-server id:_old_3
+2021-01-18T23:19:34: PM2 log: App name:log-report-server id:_old_3 disconnected
+2021-01-18T23:19:34: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2021-01-18T23:19:34: PM2 log: pid=10117 msg=process killed
+2021-01-18T23:19:34: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-18T23:19:34: PM2 log: pid=10123 msg=process killed
+2021-01-18T23:19:34: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-18T23:19:34: PM2 log: App [log-report-server:4] online
+2021-01-18T23:19:34: PM2 log: App [log-report-server:5] online
+2021-01-18T23:19:35: PM2 log: -reload- New worker listening
+2021-01-18T23:19:35: PM2 log: Stopping app:log-report-server id:_old_4
+2021-01-18T23:19:35: PM2 log: -reload- New worker listening
+2021-01-18T23:19:35: PM2 log: Stopping app:log-report-server id:_old_5
+2021-01-18T23:19:35: PM2 log: App name:log-report-server id:_old_4 disconnected
+2021-01-18T23:19:35: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2021-01-18T23:19:35: PM2 log: App name:log-report-server id:_old_5 disconnected
+2021-01-18T23:19:35: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2021-01-18T23:19:35: PM2 log: pid=10172 msg=process killed
+2021-01-18T23:19:35: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-01-18T23:19:35: PM2 log: pid=10181 msg=process killed
+2021-01-18T23:19:35: PM2 log: App [log-report-server:6] online
+2021-01-18T23:19:35: PM2 log: -reload- New worker listening
+2021-01-18T23:19:35: PM2 log: Stopping app:log-report-server id:_old_6
+2021-01-18T23:19:35: PM2 log: App name:log-report-server id:_old_6 disconnected
+2021-01-18T23:19:35: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2021-01-18T23:19:35: PM2 log: pid=10225 msg=process killed
+2021-01-23T13:36:48: PM2 log: Stopping app:log-report-server id:0
+2021-01-23T13:36:48: PM2 log: Stopping app:log-report-server id:1
+2021-01-23T13:36:48: PM2 log: Stopping app:log-report-server id:2
+2021-01-23T13:36:48: PM2 log: Stopping app:log-report-server id:3
+2021-01-23T13:36:48: PM2 log: Stopping app:log-report-server id:4
+2021-01-23T13:36:48: PM2 log: Stopping app:log-report-server id:5
+2021-01-23T13:36:48: PM2 log: Stopping app:log-report-server id:6
+2021-01-23T13:36:48: PM2 log: pid=49296 msg=failed to kill - retrying in 100ms
+2021-01-23T13:36:48: PM2 log: pid=49289 msg=failed to kill - retrying in 100ms
+2021-01-23T13:36:48: PM2 log: pid=49242 msg=failed to kill - retrying in 100ms
+2021-01-23T13:36:48: PM2 log: pid=49235 msg=failed to kill - retrying in 100ms
+2021-01-23T13:36:48: PM2 log: pid=49185 msg=failed to kill - retrying in 100ms
+2021-01-23T13:36:48: PM2 log: pid=49179 msg=failed to kill - retrying in 100ms
+2021-01-23T13:36:48: PM2 log: pid=49343 msg=failed to kill - retrying in 100ms
+2021-01-23T13:36:48: PM2 log: App name:log-report-server id:5 disconnected
+2021-01-23T13:36:48: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGINT]
+2021-01-23T13:36:48: PM2 log: App name:log-report-server id:4 disconnected
+2021-01-23T13:36:48: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGINT]
+2021-01-23T13:36:48: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGINT]
+2021-01-23T13:36:48: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGINT]
+2021-01-23T13:36:48: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGINT]
+2021-01-23T13:36:48: PM2 log: App [log-report-server:2] exited with code [0] via signal [SIGINT]
+2021-01-23T13:36:48: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGINT]
+2021-01-23T13:36:48: PM2 log: pid=49296 msg=process killed
+2021-01-23T13:36:48: PM2 log: pid=49289 msg=process killed
+2021-01-23T13:36:48: PM2 log: pid=49242 msg=process killed
+2021-01-23T13:36:48: PM2 log: pid=49235 msg=process killed
+2021-01-23T13:36:48: PM2 log: pid=49185 msg=process killed
+2021-01-23T13:36:48: PM2 log: pid=49179 msg=process killed
+2021-01-23T13:36:48: PM2 log: pid=49343 msg=process killed
+2021-01-23T13:36:48: PM2 log: PM2 successfully stopped
+2021-01-23T13:36:59: PM2 log: ===============================================================================
+2021-01-23T13:36:59: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-01-23T13:36:59: PM2 log: Time                 : Sat Jan 23 2021 13:36:59 GMT+0800 (Coordinated Universal Time)
+2021-01-23T13:36:59: PM2 log: PM2 version          : 4.1.2
+2021-01-23T13:36:59: PM2 log: Node.js version      : 12.13.0
+2021-01-23T13:36:59: PM2 log: Current arch         : x64
+2021-01-23T13:36:59: PM2 log: PM2 home             : /root/.pm2
+2021-01-23T13:36:59: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2021-01-23T13:36:59: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2021-01-23T13:36:59: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2021-01-23T13:36:59: PM2 log: Application log path : /root/.pm2/logs
+2021-01-23T13:36:59: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2021-01-23T13:36:59: PM2 log: Concurrent actions   : 2
+2021-01-23T13:36:59: PM2 log: SIGTERM timeout      : 1600
+2021-01-23T13:36:59: PM2 log: ===============================================================================
+2021-01-23T13:36:59: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-01-23T13:36:59: PM2 log: App [log-report-server:0] online
+2021-01-23T13:36:59: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-01-23T13:36:59: PM2 log: App [log-report-server:1] online
+2021-01-23T13:36:59: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-01-23T13:36:59: PM2 log: App [log-report-server:2] online
+2021-01-23T13:36:59: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-23T13:36:59: PM2 log: App [log-report-server:3] online
+2021-01-23T13:36:59: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-23T13:37:00: PM2 log: App [log-report-server:4] online
+2021-01-23T13:37:00: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-23T13:37:00: PM2 log: App [log-report-server:5] online
+2021-01-23T13:37:00: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-01-23T13:37:00: PM2 log: App [log-report-server:6] online
+
+<--- Last few GCs --->
+
+[65994:0x3c57eb0] 20952120 ms: Scavenge 874.5 (894.1) -> 858.5 (894.1) MB, 0.9 / 0.0 ms  (average mu = 0.995, current mu = 0.993) allocation failure 
+[65994:0x3c57eb0] 20952493 ms: Scavenge 874.5 (894.1) -> 858.5 (894.1) MB, 1.4 / 0.0 ms  (average mu = 0.995, current mu = 0.993) allocation failure 
+[65994:0x3c57eb0] 20952859 ms: Scavenge 874.5 (894.1) -> 858.5 (894.1) MB, 0.9 / 0.0 ms  (average mu = 0.995, current mu = 0.993) allocation failure 
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x1381859]
+Security context: 0x0a5f87230cc9 <JSObject>
+    1: /* anonymous */ [0x354d92c72169] [internal/cluster/round_robin_handle.js:~32] [pc=0x1be20be0065](this=0x3cd6cfa14001 <TCP map = 0x2e9326ca19f1>,-24,0x10a4561c04a9 <undefined>)
+    2: InternalFrame [pc: 0x12ff49d]
+    3: EntryFrame [pc: 0x12ff278]
+
+==== Details ================================================
+
+[0]: ExitFrame [pc: 0x1381859]
+[1]: /* anonymou...
+
+FATAL ERROR: invalid array length Allocation failed - JavaScript heap out of memory
+
+Failed to open Node.js report file: report.20210123.192612.65994.0.001.json (errno: 24)
+ 1: 0x9dbd20 node::Abort() [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 2: 0x9dced6 node::OnFatalError(char const*, char const*) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 3: 0xb3d96e v8::Utils::ReportOOMFailure(v8::internal::Isolate*, char const*, bool) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 4: 0xb3dce9 v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, bool) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 5: 0xcea835  [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 6: 0xcc1340 v8::internal::Factory::NewUninitializedFixedArray(int, v8::internal::AllocationType) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 7: 0xe2c261  [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 8: 0xe2c510  [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 9: 0xfd41db v8::internal::Runtime_GrowArrayElements(int, unsigned long*, v8::internal::Isolate*) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+10: 0x1381859  [PM2 v4.1.2: God Daemon (/root/.pm2)]
+2021-01-23T20:51:32: PM2 log: ===============================================================================
+2021-01-23T20:51:32: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-01-23T20:51:32: PM2 log: Time                 : Sat Jan 23 2021 20:51:32 GMT+0800 (Coordinated Universal Time)
+2021-01-23T20:51:32: PM2 log: PM2 version          : 4.1.2
+2021-01-23T20:51:32: PM2 log: Node.js version      : 12.13.0
+2021-01-23T20:51:32: PM2 log: Current arch         : x64
+2021-01-23T20:51:32: PM2 log: PM2 home             : /root/.pm2
+2021-01-23T20:51:32: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2021-01-23T20:51:32: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2021-01-23T20:51:32: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2021-01-23T20:51:32: PM2 log: Application log path : /root/.pm2/logs
+2021-01-23T20:51:32: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2021-01-23T20:51:32: PM2 log: Concurrent actions   : 2
+2021-01-23T20:51:32: PM2 log: SIGTERM timeout      : 1600
+2021-01-23T20:51:32: PM2 log: ===============================================================================
+2021-01-23T20:53:40: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-01-23T20:53:40: PM2 log: App [log-report-server:0] online
+2021-01-23T20:53:40: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-01-23T20:53:41: PM2 log: App [log-report-server:1] online
+2021-01-23T20:53:41: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-01-23T20:53:41: PM2 log: App [log-report-server:2] online
+2021-01-23T20:53:41: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-23T20:53:41: PM2 log: App [log-report-server:3] online
+2021-01-23T20:53:41: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-23T20:53:41: PM2 log: App [log-report-server:4] online
+2021-01-23T20:53:41: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-23T20:53:41: PM2 log: App [log-report-server:5] online
+2021-01-23T20:53:41: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-01-23T20:53:41: PM2 log: App [log-report-server:6] online
+2021-01-24T03:47:36: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-01-24T03:47:36: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-01-24T03:47:36: PM2 log: App [log-report-server:0] online
+2021-01-24T03:47:36: PM2 log: App [log-report-server:1] online
+2021-01-24T03:47:37: PM2 log: -reload- New worker listening
+2021-01-24T03:47:37: PM2 log: Stopping app:log-report-server id:_old_1
+2021-01-24T03:47:37: PM2 log: -reload- New worker listening
+2021-01-24T03:47:37: PM2 log: Stopping app:log-report-server id:_old_0
+2021-01-24T03:47:37: PM2 log: App name:log-report-server id:_old_1 disconnected
+2021-01-24T03:47:37: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2021-01-24T03:47:37: PM2 log: App name:log-report-server id:_old_0 disconnected
+2021-01-24T03:47:37: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2021-01-24T03:47:37: PM2 log: pid=6427 msg=process killed
+2021-01-24T03:47:37: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-01-24T03:47:37: PM2 log: pid=6418 msg=process killed
+2021-01-24T03:47:37: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-24T03:47:37: PM2 log: App [log-report-server:2] online
+2021-01-24T03:47:37: PM2 log: App [log-report-server:3] online
+2021-01-24T03:47:38: PM2 log: -reload- New worker listening
+2021-01-24T03:47:38: PM2 log: Stopping app:log-report-server id:_old_2
+2021-01-24T03:47:38: PM2 log: App name:log-report-server id:_old_2 disconnected
+2021-01-24T03:47:38: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2021-01-24T03:47:38: PM2 log: -reload- New worker listening
+2021-01-24T03:47:38: PM2 log: Stopping app:log-report-server id:_old_3
+2021-01-24T03:47:38: PM2 log: App name:log-report-server id:_old_3 disconnected
+2021-01-24T03:47:38: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2021-01-24T03:47:38: PM2 log: pid=6438 msg=process killed
+2021-01-24T03:47:38: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-24T03:47:38: PM2 log: pid=6449 msg=process killed
+2021-01-24T03:47:38: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-24T03:47:38: PM2 log: App [log-report-server:4] online
+2021-01-24T03:47:38: PM2 log: App [log-report-server:5] online
+2021-01-24T03:47:38: PM2 log: -reload- New worker listening
+2021-01-24T03:47:38: PM2 log: Stopping app:log-report-server id:_old_4
+2021-01-24T03:47:38: PM2 log: App name:log-report-server id:_old_4 disconnected
+2021-01-24T03:47:38: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2021-01-24T03:47:38: PM2 log: -reload- New worker listening
+2021-01-24T03:47:38: PM2 log: Stopping app:log-report-server id:_old_5
+2021-01-24T03:47:38: PM2 log: App name:log-report-server id:_old_5 disconnected
+2021-01-24T03:47:38: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2021-01-24T03:47:38: PM2 log: pid=6465 msg=process killed
+2021-01-24T03:47:38: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-01-24T03:47:38: PM2 log: pid=6487 msg=process killed
+2021-01-24T03:47:38: PM2 log: App [log-report-server:6] online
+2021-01-24T03:47:39: PM2 log: -reload- New worker listening
+2021-01-24T03:47:39: PM2 log: Stopping app:log-report-server id:_old_6
+2021-01-24T03:47:39: PM2 log: App name:log-report-server id:_old_6 disconnected
+2021-01-24T03:47:39: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2021-01-24T03:47:39: PM2 log: pid=6501 msg=process killed
+2021-01-24T20:12:11: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGKILL]
+2021-01-24T20:12:11: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-24T20:12:11: PM2 log: App [log-report-server:5] online
+2021-01-24T20:12:39: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGKILL]
+2021-01-24T20:12:39: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-24T20:12:39: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGKILL]
+2021-01-24T20:12:39: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-24T20:12:39: PM2 log: App [log-report-server:3] online
+2021-01-24T20:12:39: PM2 log: App [log-report-server:4] online
+2021-01-25T19:06:04: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2021-01-25T19:23:34: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+
+<--- Last few GCs --->
+
+[6275:0x3818eb0] 168505822 ms: Scavenge 920.2 (937.6) -> 904.2 (937.6) MB, 0.8 / 0.0 ms  (average mu = 0.997, current mu = 0.996) allocation failure 
+[6275:0x3818eb0] 168506200 ms: Scavenge 920.2 (937.6) -> 904.2 (937.6) MB, 0.8 / 0.0 ms  (average mu = 0.997, current mu = 0.996) allocation failure 
+[6275:0x3818eb0] 168506592 ms: Scavenge 920.2 (937.6) -> 904.2 (937.6) MB, 1.0 / 0.0 ms  (average mu = 0.997, current mu = 0.996) allocation failure 
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x1381859]
+Security context: 0x31aaf0b808a1 <JSObject>
+    1: /* anonymous */ [0x101343658cf9] [internal/cluster/round_robin_handle.js:~32] [pc=0x1730b73e8bac](this=0x215f4ca25471 <TCP map = 0xd27d1b74051>,-24,0x3cbc2f6c04a9 <undefined>)
+    2: InternalFrame [pc: 0x12ff49d]
+    3: EntryFrame [pc: 0x12ff278]
+
+==== Details ================================================
+
+[0]: ExitFrame [pc: 0x1381859]
+[1]: /* anonymou...
+
+FATAL ERROR: invalid array length Allocation failed - JavaScript heap out of memory
+
+Failed to open Node.js report file: report.20210125.193959.6275.0.001.json (errno: 24)
+ 1: 0x9dbd20 node::Abort() [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 2: 0x9dced6 node::OnFatalError(char const*, char const*) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 3: 0xb3d96e v8::Utils::ReportOOMFailure(v8::internal::Isolate*, char const*, bool) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 4: 0xb3dce9 v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, bool) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 5: 0xcea835  [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 6: 0xcc1340 v8::internal::Factory::NewUninitializedFixedArray(int, v8::internal::AllocationType) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 7: 0xe2c261  [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 8: 0xe2c510  [PM2 v4.1.2: God Daemon (/root/.pm2)]
+ 9: 0xfd41db v8::internal::Runtime_GrowArrayElements(int, unsigned long*, v8::internal::Isolate*) [PM2 v4.1.2: God Daemon (/root/.pm2)]
+10: 0x1381859  [PM2 v4.1.2: God Daemon (/root/.pm2)]
+2021-01-26T10:15:17: PM2 log: ===============================================================================
+2021-01-26T10:15:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-01-26T10:15:17: PM2 log: Time                 : Tue Jan 26 2021 10:15:17 GMT+0800 (Coordinated Universal Time)
+2021-01-26T10:15:17: PM2 log: PM2 version          : 4.1.2
+2021-01-26T10:15:17: PM2 log: Node.js version      : 12.13.0
+2021-01-26T10:15:17: PM2 log: Current arch         : x64
+2021-01-26T10:15:17: PM2 log: PM2 home             : /root/.pm2
+2021-01-26T10:15:17: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2021-01-26T10:15:17: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2021-01-26T10:15:17: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2021-01-26T10:15:17: PM2 log: Application log path : /root/.pm2/logs
+2021-01-26T10:15:17: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2021-01-26T10:15:17: PM2 log: Concurrent actions   : 2
+2021-01-26T10:15:17: PM2 log: SIGTERM timeout      : 1600
+2021-01-26T10:15:17: PM2 log: ===============================================================================
+2021-01-26T10:15:38: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-01-26T10:15:38: PM2 log: App [log-report-server:0] online
+2021-01-26T10:15:38: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-01-26T10:15:38: PM2 log: App [log-report-server:1] online
+2021-01-26T10:15:38: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-01-26T10:15:38: PM2 log: App [log-report-server:2] online
+2021-01-26T10:15:38: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-26T10:15:38: PM2 log: App [log-report-server:3] online
+2021-01-26T10:15:38: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-26T10:15:38: PM2 log: App [log-report-server:4] online
+2021-01-26T10:15:38: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-26T10:15:38: PM2 log: App [log-report-server:5] online
+2021-01-26T10:15:38: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-01-26T10:15:39: PM2 log: App [log-report-server:6] online
+2021-01-26T16:41:05: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-01-26T16:41:05: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-01-26T16:41:05: PM2 log: App [log-report-server:0] online
+2021-01-26T16:41:05: PM2 log: App [log-report-server:1] online
+2021-01-26T16:41:06: PM2 log: -reload- New worker listening
+2021-01-26T16:41:06: PM2 log: Stopping app:log-report-server id:_old_0
+2021-01-26T16:41:06: PM2 log: -reload- New worker listening
+2021-01-26T16:41:06: PM2 log: Stopping app:log-report-server id:_old_1
+2021-01-26T16:41:06: PM2 log: App name:log-report-server id:_old_0 disconnected
+2021-01-26T16:41:06: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2021-01-26T16:41:06: PM2 log: pid=21681 msg=process killed
+2021-01-26T16:41:06: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-01-26T16:41:06: PM2 log: App name:log-report-server id:_old_1 disconnected
+2021-01-26T16:41:06: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2021-01-26T16:41:06: PM2 log: pid=21690 msg=process killed
+2021-01-26T16:41:06: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-26T16:41:06: PM2 log: App [log-report-server:2] online
+2021-01-26T16:41:06: PM2 log: App [log-report-server:3] online
+2021-01-26T16:41:07: PM2 log: -reload- New worker listening
+2021-01-26T16:41:07: PM2 log: Stopping app:log-report-server id:_old_2
+2021-01-26T16:41:07: PM2 log: -reload- New worker listening
+2021-01-26T16:41:07: PM2 log: Stopping app:log-report-server id:_old_3
+2021-01-26T16:41:07: PM2 log: App name:log-report-server id:_old_2 disconnected
+2021-01-26T16:41:07: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2021-01-26T16:41:07: PM2 log: pid=21701 msg=process killed
+2021-01-26T16:41:07: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-26T16:41:07: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2021-01-26T16:41:07: PM2 log: pid=21712 msg=process killed
+2021-01-26T16:41:07: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-26T16:41:07: PM2 log: App [log-report-server:4] online
+2021-01-26T16:41:07: PM2 log: App [log-report-server:5] online
+2021-01-26T16:41:07: PM2 log: -reload- New worker listening
+2021-01-26T16:41:07: PM2 log: Stopping app:log-report-server id:_old_4
+2021-01-26T16:41:07: PM2 log: -reload- New worker listening
+2021-01-26T16:41:07: PM2 log: Stopping app:log-report-server id:_old_5
+2021-01-26T16:41:07: PM2 log: App name:log-report-server id:_old_4 disconnected
+2021-01-26T16:41:07: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2021-01-26T16:41:08: PM2 log: pid=21728 msg=process killed
+2021-01-26T16:41:08: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-01-26T16:41:08: PM2 log: App name:log-report-server id:_old_5 disconnected
+2021-01-26T16:41:08: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2021-01-26T16:41:08: PM2 log: pid=21744 msg=process killed
+2021-01-26T16:41:08: PM2 log: App [log-report-server:6] online
+2021-01-26T16:41:08: PM2 log: -reload- New worker listening
+2021-01-26T16:41:08: PM2 log: Stopping app:log-report-server id:_old_6
+2021-01-26T16:41:08: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2021-01-26T16:41:08: PM2 log: pid=21760 msg=process killed
+2021-01-26T16:52:27: PM2 log: Stopping app:log-report-server id:0
+2021-01-26T16:52:27: PM2 log: Stopping app:log-report-server id:1
+2021-01-26T16:52:27: PM2 log: Stopping app:log-report-server id:2
+2021-01-26T16:52:27: PM2 log: Stopping app:log-report-server id:3
+2021-01-26T16:52:27: PM2 log: Stopping app:log-report-server id:4
+2021-01-26T16:52:27: PM2 log: Stopping app:log-report-server id:5
+2021-01-26T16:52:27: PM2 log: Stopping app:log-report-server id:6
+2021-01-26T16:52:27: PM2 log: App name:log-report-server id:5 disconnected
+2021-01-26T16:52:27: PM2 log: App [log-report-server:5] exited with code [0] via signal [SIGINT]
+2021-01-26T16:52:27: PM2 log: App name:log-report-server id:4 disconnected
+2021-01-26T16:52:27: PM2 log: App name:log-report-server id:2 disconnected
+2021-01-26T16:52:27: PM2 log: App name:log-report-server id:1 disconnected
+2021-01-26T16:52:27: PM2 log: App [log-report-server:1] exited with code [0] via signal [SIGINT]
+2021-01-26T16:52:27: PM2 log: App [log-report-server:2] exited with code [0] via signal [SIGINT]
+2021-01-26T16:52:27: PM2 log: App [log-report-server:4] exited with code [0] via signal [SIGINT]
+2021-01-26T16:52:27: PM2 log: App [log-report-server:3] exited with code [0] via signal [SIGINT]
+2021-01-26T16:52:27: PM2 log: App [log-report-server:6] exited with code [0] via signal [SIGINT]
+2021-01-26T16:52:27: PM2 log: App name:log-report-server id:3 disconnected
+2021-01-26T16:52:27: PM2 log: App name:log-report-server id:6 disconnected
+2021-01-26T16:52:27: PM2 log: App name:log-report-server id:0 disconnected
+2021-01-26T16:52:27: PM2 log: App [log-report-server:0] exited with code [0] via signal [SIGINT]
+2021-01-26T16:52:28: PM2 log: pid=42529 msg=process killed
+2021-01-26T16:52:28: PM2 log: pid=42520 msg=process killed
+2021-01-26T16:52:28: PM2 log: pid=42473 msg=process killed
+2021-01-26T16:52:28: PM2 log: pid=42464 msg=process killed
+2021-01-26T16:52:28: PM2 log: pid=42413 msg=process killed
+2021-01-26T16:52:28: PM2 log: pid=42407 msg=process killed
+2021-01-26T16:52:28: PM2 log: pid=42576 msg=process killed
+2021-01-26T16:52:28: PM2 log: PM2 successfully stopped
+2021-01-26T16:53:13: PM2 log: ===============================================================================
+2021-01-26T16:53:13: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-01-26T16:53:13: PM2 log: Time                 : Tue Jan 26 2021 16:53:13 GMT+0800 (Coordinated Universal Time)
+2021-01-26T16:53:13: PM2 log: PM2 version          : 4.5.1
+2021-01-26T16:53:13: PM2 log: Node.js version      : 12.20.1
+2021-01-26T16:53:13: PM2 log: Current arch         : x64
+2021-01-26T16:53:13: PM2 log: PM2 home             : /root/.pm2
+2021-01-26T16:53:13: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2021-01-26T16:53:13: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2021-01-26T16:53:13: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2021-01-26T16:53:13: PM2 log: Application log path : /root/.pm2/logs
+2021-01-26T16:53:13: PM2 log: Worker Interval      : 30000
+2021-01-26T16:53:13: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2021-01-26T16:53:13: PM2 log: Concurrent actions   : 2
+2021-01-26T16:53:13: PM2 log: SIGTERM timeout      : 1600
+2021-01-26T16:53:13: PM2 log: ===============================================================================
+2021-01-26T16:53:13: PM2 log: PM2 successfully stopped
+2021-01-26T16:53:14: PM2 log: ===============================================================================
+2021-01-26T16:53:14: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-01-26T16:53:14: PM2 log: Time                 : Tue Jan 26 2021 16:53:14 GMT+0800 (Coordinated Universal Time)
+2021-01-26T16:53:14: PM2 log: PM2 version          : 4.5.1
+2021-01-26T16:53:14: PM2 log: Node.js version      : 12.20.1
+2021-01-26T16:53:14: PM2 log: Current arch         : x64
+2021-01-26T16:53:14: PM2 log: PM2 home             : /root/.pm2
+2021-01-26T16:53:14: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2021-01-26T16:53:14: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2021-01-26T16:53:14: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2021-01-26T16:53:14: PM2 log: Application log path : /root/.pm2/logs
+2021-01-26T16:53:14: PM2 log: Worker Interval      : 30000
+2021-01-26T16:53:14: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2021-01-26T16:53:14: PM2 log: Concurrent actions   : 2
+2021-01-26T16:53:14: PM2 log: SIGTERM timeout      : 1600
+2021-01-26T16:53:14: PM2 log: ===============================================================================
+2021-01-26T16:55:54: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-01-26T16:55:54: PM2 log: App [log-report-server:0] online
+2021-01-26T16:55:54: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-01-26T16:55:54: PM2 log: App [log-report-server:1] online
+2021-01-26T16:55:54: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-01-26T16:55:55: PM2 log: App [log-report-server:2] online
+2021-01-26T16:55:55: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-26T16:55:55: PM2 log: App [log-report-server:3] online
+2021-01-26T16:55:55: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-26T16:55:55: PM2 log: App [log-report-server:4] online
+2021-01-26T16:55:55: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-26T16:55:55: PM2 log: App [log-report-server:5] online
+2021-01-26T16:55:55: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-01-26T16:55:55: PM2 log: App [log-report-server:6] online
+2021-01-27T22:34:56: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-01-27T22:34:56: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-01-27T22:34:56: PM2 log: App [log-report-server:1] online
+2021-01-27T22:34:56: PM2 log: App [log-report-server:0] online
+2021-01-27T22:34:57: PM2 log: -reload- New worker listening
+2021-01-27T22:34:57: PM2 log: Stopping app:log-report-server id:_old_1
+2021-01-27T22:34:57: PM2 log: -reload- New worker listening
+2021-01-27T22:34:57: PM2 log: Stopping app:log-report-server id:_old_0
+2021-01-27T22:34:57: PM2 log: App name:log-report-server id:_old_0 disconnected
+2021-01-27T22:34:57: PM2 log: App name:log-report-server id:_old_1 disconnected
+2021-01-27T22:34:57: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2021-01-27T22:34:57: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2021-01-27T22:34:57: PM2 log: pid=46349 msg=process killed
+2021-01-27T22:34:57: PM2 log: pid=46340 msg=process killed
+2021-01-27T22:34:57: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-01-27T22:34:57: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-01-27T22:34:57: PM2 log: App [log-report-server:2] online
+2021-01-27T22:34:57: PM2 log: App [log-report-server:3] online
+2021-01-27T22:34:58: PM2 log: -reload- New worker listening
+2021-01-27T22:34:58: PM2 log: Stopping app:log-report-server id:_old_3
+2021-01-27T22:34:58: PM2 log: -reload- New worker listening
+2021-01-27T22:34:58: PM2 log: Stopping app:log-report-server id:_old_2
+2021-01-27T22:34:58: PM2 log: App name:log-report-server id:_old_3 disconnected
+2021-01-27T22:34:58: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2021-01-27T22:34:58: PM2 log: App name:log-report-server id:_old_2 disconnected
+2021-01-27T22:34:58: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2021-01-27T22:34:58: PM2 log: pid=46404 msg=process killed
+2021-01-27T22:34:58: PM2 log: pid=46374 msg=process killed
+2021-01-27T22:34:58: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-01-27T22:34:58: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-01-27T22:34:58: PM2 log: App [log-report-server:4] online
+2021-01-27T22:34:58: PM2 log: App [log-report-server:5] online
+2021-01-27T22:34:59: PM2 log: -reload- New worker listening
+2021-01-27T22:34:59: PM2 log: Stopping app:log-report-server id:_old_4
+2021-01-27T22:34:59: PM2 log: -reload- New worker listening
+2021-01-27T22:34:59: PM2 log: Stopping app:log-report-server id:_old_5
+2021-01-27T22:34:59: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2021-01-27T22:34:59: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2021-01-27T22:34:59: PM2 log: pid=46434 msg=process killed
+2021-01-27T22:34:59: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-01-27T22:34:59: PM2 log: pid=46464 msg=process killed
+2021-01-27T22:34:59: PM2 log: App [log-report-server:6] online
+2021-01-27T22:35:00: PM2 log: -reload- New worker listening
+2021-01-27T22:35:00: PM2 log: Stopping app:log-report-server id:_old_6
+2021-01-27T22:35:00: PM2 log: App name:log-report-server id:_old_6 disconnected
+2021-01-27T22:35:00: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2021-01-27T22:35:00: PM2 log: pid=46494 msg=process killed
+2021-01-29T16:53:15: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-01-29T16:53:15: PM2 log: [PM2] Upgrade to version 4.5.2
+2021-01-30T16:53:15: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-01-30T16:53:15: PM2 log: [PM2] Upgrade to version 4.5.2
+2021-01-31T16:53:15: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-01-31T16:53:15: PM2 log: [PM2] Upgrade to version 4.5.2
+2021-02-01T16:53:15: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-01T16:53:15: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-02T16:53:15: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-02T16:53:15: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-02T18:57:48: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2021-02-02T19:13:18: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2021-02-02T19:39:18: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2021-02-03T10:40:18: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2021-02-03T10:45:18: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2021-02-03T16:53:16: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-03T16:53:16: PM2 log: [PM2] Upgrade to version 4.5.4
+
+<--- Last few GCs --->
+
+[44179:0x3990020] 702681224 ms: Scavenge 1183.8 (1204.6) -> 1167.9 (1204.6) MB, 0.9 / 0.0 ms  (average mu = 0.997, current mu = 0.997) allocation failure 
+[44179:0x3990020] 702681509 ms: Scavenge 1183.8 (1204.6) -> 1167.9 (1204.6) MB, 0.9 / 0.0 ms  (average mu = 0.997, current mu = 0.997) allocation failure 
+[44179:0x3990020] 702681790 ms: Scavenge 1183.8 (1204.6) -> 1167.9 (1204.6) MB, 0.9 / 0.0 ms  (average mu = 0.997, current mu = 0.997) allocation failure 
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x1418d59]
+Security context: 0x0d856edc08d1 <JSObject>
+    1: /* anonymous */ [0x3487bdab62e1] [internal/cluster/round_robin_handle.js:~39] [pc=0x32b1745ba747](this=0x196927dceaa1 <TCP map = 0x26bda58fe2d9>,-24,0x1acbf55c04b1 <undefined>)
+    2: callbackTrampoline [0x2ae663782031] [internal/async_hooks.js:~114] [pc=0x32b17448b786](this=0x196927dceaa1 <TCP map = 0x26bda58fe2d9>,1451,0x196927dceaa1 <TCP map = 0x26bda58...
+
+FATAL ERROR: invalid array length Allocation failed - JavaScript heap out of memory
+ 1: 0xa1a220 node::Abort() [PM2 v4.5.1: God Daemon (/root/.pm2)]
+ 2: 0xa1a62c node::OnFatalError(char const*, char const*) [PM2 v4.5.1: God Daemon (/root/.pm2)]
+ 3: 0xb9bdae v8::Utils::ReportOOMFailure(v8::internal::Isolate*, char const*, bool) [PM2 v4.5.1: God Daemon (/root/.pm2)]
+ 4: 0xb9c129 v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, bool) [PM2 v4.5.1: God Daemon (/root/.pm2)]
+ 5: 0xd5a5b5  [PM2 v4.5.1: God Daemon (/root/.pm2)]
+ 6: 0xd32220 v8::internal::Factory::NewUninitializedFixedArray(int, v8::internal::AllocationType) [PM2 v4.5.1: God Daemon (/root/.pm2)]
+ 7: 0xea2201  [PM2 v4.5.1: God Daemon (/root/.pm2)]
+ 8: 0xea24b0  [PM2 v4.5.1: God Daemon (/root/.pm2)]
+ 9: 0x1050e0b v8::internal::Runtime_GrowArrayElements(int, unsigned long*, v8::internal::Isolate*) [PM2 v4.5.1: God Daemon (/root/.pm2)]
+10: 0x1418d59  [PM2 v4.5.1: God Daemon (/root/.pm2)]
+2021-02-04T00:12:15: PM2 log: ===============================================================================
+2021-02-04T00:12:15: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-02-04T00:12:15: PM2 log: Time                 : Thu Feb 04 2021 00:12:15 GMT+0800 (Coordinated Universal Time)
+2021-02-04T00:12:15: PM2 log: PM2 version          : 4.5.1
+2021-02-04T00:12:15: PM2 log: Node.js version      : 12.20.1
+2021-02-04T00:12:15: PM2 log: Current arch         : x64
+2021-02-04T00:12:15: PM2 log: PM2 home             : /root/.pm2
+2021-02-04T00:12:15: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2021-02-04T00:12:15: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2021-02-04T00:12:15: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2021-02-04T00:12:15: PM2 log: Application log path : /root/.pm2/logs
+2021-02-04T00:12:15: PM2 log: Worker Interval      : 30000
+2021-02-04T00:12:15: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2021-02-04T00:12:15: PM2 log: Concurrent actions   : 2
+2021-02-04T00:12:15: PM2 log: SIGTERM timeout      : 1600
+2021-02-04T00:12:15: PM2 log: ===============================================================================
+2021-02-04T00:12:15: PM2 log: PM2 successfully stopped
+2021-02-04T01:54:39: PM2 log: ===============================================================================
+2021-02-04T01:54:39: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-02-04T01:54:39: PM2 log: Time                 : Thu Feb 04 2021 01:54:39 GMT+0800 (Coordinated Universal Time)
+2021-02-04T01:54:39: PM2 log: PM2 version          : 4.5.1
+2021-02-04T01:54:39: PM2 log: Node.js version      : 12.20.1
+2021-02-04T01:54:39: PM2 log: Current arch         : x64
+2021-02-04T01:54:39: PM2 log: PM2 home             : /root/.pm2
+2021-02-04T01:54:39: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2021-02-04T01:54:39: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2021-02-04T01:54:39: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2021-02-04T01:54:39: PM2 log: Application log path : /root/.pm2/logs
+2021-02-04T01:54:39: PM2 log: Worker Interval      : 30000
+2021-02-04T01:54:39: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2021-02-04T01:54:39: PM2 log: Concurrent actions   : 2
+2021-02-04T01:54:39: PM2 log: SIGTERM timeout      : 1600
+2021-02-04T01:54:39: PM2 log: ===============================================================================
+2021-02-04T01:54:39: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-02-04T01:54:39: PM2 log: App [log-report-server:0] online
+2021-02-04T01:54:39: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-02-04T01:54:39: PM2 log: App [log-report-server:1] online
+2021-02-04T01:54:39: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-02-04T01:54:39: PM2 log: App [log-report-server:2] online
+2021-02-04T01:54:39: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-02-04T01:54:39: PM2 log: App [log-report-server:3] online
+2021-02-04T01:54:39: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-02-04T01:54:39: PM2 log: App [log-report-server:4] online
+2021-02-04T01:54:39: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-02-04T01:54:39: PM2 log: App [log-report-server:5] online
+2021-02-04T01:54:39: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-02-04T01:54:39: PM2 log: App [log-report-server:6] online
+2021-02-04T19:44:40: PM2 warn: [pidusage] We couldn't find uptime from /proc/uptime, using os.uptime() value
+2021-02-04T21:27:44: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-02-04T21:27:44: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-02-04T21:27:45: PM2 log: App [log-report-server:0] online
+2021-02-04T21:27:45: PM2 log: App [log-report-server:1] online
+2021-02-04T21:27:46: PM2 log: -reload- New worker listening
+2021-02-04T21:27:46: PM2 log: Stopping app:log-report-server id:_old_0
+2021-02-04T21:27:46: PM2 log: -reload- New worker listening
+2021-02-04T21:27:46: PM2 log: Stopping app:log-report-server id:_old_1
+2021-02-04T21:27:46: PM2 log: App name:log-report-server id:_old_1 disconnected
+2021-02-04T21:27:46: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2021-02-04T21:27:46: PM2 log: App name:log-report-server id:_old_0 disconnected
+2021-02-04T21:27:46: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2021-02-04T21:27:46: PM2 log: pid=21566 msg=process killed
+2021-02-04T21:27:46: PM2 log: pid=21575 msg=process killed
+2021-02-04T21:27:46: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-02-04T21:27:46: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-02-04T21:27:46: PM2 log: App [log-report-server:2] online
+2021-02-04T21:27:46: PM2 log: App [log-report-server:3] online
+2021-02-04T21:27:47: PM2 log: -reload- New worker listening
+2021-02-04T21:27:47: PM2 log: Stopping app:log-report-server id:_old_3
+2021-02-04T21:27:47: PM2 log: -reload- New worker listening
+2021-02-04T21:27:47: PM2 log: Stopping app:log-report-server id:_old_2
+2021-02-04T21:27:47: PM2 log: App name:log-report-server id:_old_3 disconnected
+2021-02-04T21:27:47: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2021-02-04T21:27:47: PM2 log: pid=21607 msg=process killed
+2021-02-04T21:27:47: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-02-04T21:27:47: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2021-02-04T21:27:47: PM2 log: pid=21588 msg=process killed
+2021-02-04T21:27:47: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-02-04T21:27:47: PM2 log: App [log-report-server:4] online
+2021-02-04T21:27:47: PM2 log: App [log-report-server:5] online
+2021-02-04T21:27:48: PM2 log: -reload- New worker listening
+2021-02-04T21:27:48: PM2 log: Stopping app:log-report-server id:_old_5
+2021-02-04T21:27:48: PM2 log: -reload- New worker listening
+2021-02-04T21:27:48: PM2 log: Stopping app:log-report-server id:_old_4
+2021-02-04T21:27:48: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2021-02-04T21:27:48: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2021-02-04T21:27:48: PM2 log: pid=21668 msg=process killed
+2021-02-04T21:27:48: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-02-04T21:27:48: PM2 log: pid=21641 msg=process killed
+2021-02-04T21:27:48: PM2 log: App [log-report-server:6] online
+2021-02-04T21:27:49: PM2 log: -reload- New worker listening
+2021-02-04T21:27:49: PM2 log: Stopping app:log-report-server id:_old_6
+2021-02-04T21:27:49: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2021-02-04T21:27:49: PM2 log: pid=21698 msg=process killed
+2021-02-05T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-05T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-05T17:29:46: PM2 log: App [log-report-server:0] starting in -cluster mode-
+2021-02-05T17:29:46: PM2 log: App [log-report-server:1] starting in -cluster mode-
+2021-02-05T17:29:46: PM2 log: App [log-report-server:0] online
+2021-02-05T17:29:46: PM2 log: App [log-report-server:1] online
+2021-02-05T17:29:46: PM2 log: -reload- New worker listening
+2021-02-05T17:29:46: PM2 log: Stopping app:log-report-server id:_old_0
+2021-02-05T17:29:46: PM2 log: -reload- New worker listening
+2021-02-05T17:29:46: PM2 log: Stopping app:log-report-server id:_old_1
+2021-02-05T17:29:46: PM2 log: App name:log-report-server id:_old_0 disconnected
+2021-02-05T17:29:46: PM2 log: App [log-report-server:_old_0] exited with code [0] via signal [SIGINT]
+2021-02-05T17:29:46: PM2 log: App name:log-report-server id:_old_1 disconnected
+2021-02-05T17:29:46: PM2 log: App [log-report-server:_old_1] exited with code [0] via signal [SIGINT]
+2021-02-05T17:29:47: PM2 log: pid=963 msg=process killed
+2021-02-05T17:29:47: PM2 log: pid=969 msg=process killed
+2021-02-05T17:29:47: PM2 log: App [log-report-server:2] starting in -cluster mode-
+2021-02-05T17:29:47: PM2 log: App [log-report-server:3] starting in -cluster mode-
+2021-02-05T17:29:47: PM2 log: App [log-report-server:2] online
+2021-02-05T17:29:47: PM2 log: App [log-report-server:3] online
+2021-02-05T17:29:47: PM2 log: -reload- New worker listening
+2021-02-05T17:29:47: PM2 log: Stopping app:log-report-server id:_old_3
+2021-02-05T17:29:47: PM2 log: App name:log-report-server id:_old_3 disconnected
+2021-02-05T17:29:47: PM2 log: App [log-report-server:_old_3] exited with code [0] via signal [SIGINT]
+2021-02-05T17:29:47: PM2 log: -reload- New worker listening
+2021-02-05T17:29:47: PM2 log: Stopping app:log-report-server id:_old_2
+2021-02-05T17:29:47: PM2 log: App [log-report-server:_old_2] exited with code [0] via signal [SIGINT]
+2021-02-05T17:29:47: PM2 log: pid=1060 msg=process killed
+2021-02-05T17:29:48: PM2 log: App [log-report-server:4] starting in -cluster mode-
+2021-02-05T17:29:48: PM2 log: pid=1054 msg=process killed
+2021-02-05T17:29:48: PM2 log: App [log-report-server:5] starting in -cluster mode-
+2021-02-05T17:29:48: PM2 log: App [log-report-server:4] online
+2021-02-05T17:29:48: PM2 log: App [log-report-server:5] online
+2021-02-05T17:29:48: PM2 log: -reload- New worker listening
+2021-02-05T17:29:48: PM2 log: Stopping app:log-report-server id:_old_4
+2021-02-05T17:29:48: PM2 log: App [log-report-server:_old_4] exited with code [0] via signal [SIGINT]
+2021-02-05T17:29:48: PM2 log: -reload- New worker listening
+2021-02-05T17:29:48: PM2 log: Stopping app:log-report-server id:_old_5
+2021-02-05T17:29:48: PM2 log: App name:log-report-server id:_old_5 disconnected
+2021-02-05T17:29:48: PM2 log: App [log-report-server:_old_5] exited with code [0] via signal [SIGINT]
+2021-02-05T17:29:48: PM2 log: pid=1145 msg=process killed
+2021-02-05T17:29:48: PM2 log: App [log-report-server:6] starting in -cluster mode-
+2021-02-05T17:29:48: PM2 log: pid=1154 msg=process killed
+2021-02-05T17:29:49: PM2 log: App [log-report-server:6] online
+2021-02-05T17:29:49: PM2 log: -reload- New worker listening
+2021-02-05T17:29:49: PM2 log: Stopping app:log-report-server id:_old_6
+2021-02-05T17:29:49: PM2 log: App name:log-report-server id:_old_6 disconnected
+2021-02-05T17:29:49: PM2 log: App [log-report-server:_old_6] exited with code [0] via signal [SIGINT]
+2021-02-05T17:29:49: PM2 log: pid=1230 msg=process killed
+2021-02-06T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-06T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-07T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-07T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-08T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-08T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-09T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-09T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-10T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-10T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-11T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-11T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-12T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-12T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-13T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-13T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-14T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-14T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-15T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-15T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-16T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-16T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-17T01:54:42: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-17T01:54:42: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-18T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-18T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-19T01:54:42: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-19T01:54:42: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-20T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-20T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-21T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-21T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-22T01:54:41: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-22T01:54:41: PM2 log: [PM2] Upgrade to version 4.5.4
+2021-02-23T01:54:40: PM2 log: [PM2] This PM2 is not UP TO DATE
+2021-02-23T01:54:40: PM2 log: [PM2] Upgrade to version 4.5.4

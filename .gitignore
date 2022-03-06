@@ -1,0 +1,14 @@
+node_modules
+.logs
+package-lock.json
+dump.rdb
+coverage
+*.tar.gz
+core.*
+coredump_*
+.nyc_output/
+.vscode
+.DS_Store
+test/log/info.log
+test/log/info2.log
+test/log/info3.log
