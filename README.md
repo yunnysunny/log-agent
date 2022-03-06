@@ -1,5 +1,20 @@
 # log-agent
 
+[![build status][action-image]][action-url]
+[![Test coverage][coveralls-image]][coveralls-url]
+[![GitHub license](https://img.shields.io/github/license/yunnysunny/log-agent)](https://github.com/yunnysunny/log-agent)
+[![node version][node-image]][node-url]
+
+[npm-url]: https://npmjs.org/package/@yunnysunny/log-agent
+[action-image]: https://github.com/yunnysunny/log-agent/workflows/CI/badge.svg
+[action-url]: https://github.com/yunnysunny/log-agent/actions/workflows/ci.yml
+[coveralls-image]: https://img.shields.io/coveralls/yunnysunny/log-agent.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/yunnysunny/log-agent?branch=master
+[node-image]: https://img.shields.io/badge/node.js-%3E=_12-green.svg?style=flat-square
+[node-url]: http://nodejs.org/download/
+
+[![NPM](https://nodei.co/npm/log-agent.png?downloads=true)](https://nodei.co/npm/log-agent/) 
+
 本项目用于监听日志文件变动，并根据需求进行筛选、上报 kafka 或者报警。
 
 ## 安装
