@@ -18,6 +18,7 @@
     "glob": "^7.1.6"
   },
   "devDependencies": {
+    "@yunnysunny/node-alarm": "^0.1.1",
     "coveralls": "^3.1.1",
     "eslint": "^7.9.0",
     "expect.js": "^0.3.1",

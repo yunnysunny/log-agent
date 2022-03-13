@@ -1,6 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 var expect = require('expect.js');
+const NodeAlarm = require('@yunnysunny/node-alarm');
 var LogAgent = require('../src/LogAgent');
 
 const INFO_LOG_PATH=path.join(__dirname,'log/info.log');
@@ -755,5 +756,44 @@ describe('/src/agent.js', function() {
             });
         }));
     }));
+    describe('Alarm test', function() {
+        before(function() {
+            const WXWORK_CONFIG = {
+                type: NodeAlarm.ALARM_TYPE_WXWORK,
+                options: {
+                    // 机器人地址
+                    url: 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=637cc457-6e6f-44a5-99ad-2e3d825482b2',
+                    msgType: 'markdown'//支持 text 和 markdown 两种类型
+                }
+            };
+            const alarm = new NodeAlarm([WXWORK_CONFIG]);
+            const conf = Object.assign(commonConfigObj,{
+                mutliLineRegexStart:'TypeError',
+                mutliLineRegexContent:'at ',
+                filterRegex: 'TypeError',
+                logPath:[INFO3_LOG_PATH],
+                alarm,
+            });
+            agent = new LogAgent(conf);
+        });
 
+        it('should send alarm success', function(done) {
+            var logContent = fs.readFileSync(PM2_ERROR_LOG_PATH);
+            agent.run(function(err,param){
+                if (err) {
+                    return done(err);
+                }
+                if (param.length === 0) {
+                    return fs.appendFileSync(INFO3_LOG_PATH, logContent);
+                }
+            });
+            agent.on(LogAgent.SEND_LOG_OK, function(logs) {
+                expect(logs).to.have.length(1);
+                done();
+            });
+            agent.on(LogAgent.SEND_LOG_ERROR, function(err) {
+                done(err);
+            });
+        });
+    });
 });

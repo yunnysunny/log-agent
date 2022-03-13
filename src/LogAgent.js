@@ -16,6 +16,7 @@ const EventEmitter = require('events');
  * @property {Boolean} [nowRun=false] 选填，是否在初始化时启动
  * @property {Number} [reportInterval=1000] 选填，轮询间隔
  * @property {Object=} alarm 选填，发送日志对象 参见[@yunnysunny/node-alarm](https://www.npmjs.com/package/@yunnysunny/node-alarm)
+ * @property {String} [alarmTitle='Error occured'] 报警信息的标题 
  */
 /**
  * @function RunCallback
@@ -46,15 +47,16 @@ class LogAgent extends EventEmitter{
      */
     constructor({
         logPath,
-        queueScheduleProducer,
-        mutliLineRegexStart,
+        mutliLineRegexStart = '',
         mutliLineRegexEnd = '',
         mutliLineRegexContent = 'at ',
-        filterRegex,
+        filterRegex = '',
         reportInterval = 1000,
-        alarm,
+        queueScheduleProducer = null,
+        alarm = null,
         limit = 1024,
-        nowRun = false
+        nowRun = false,
+        alarmTitle = 'Error occured'
     },callback){
         super();
         this._queueScheduleProducer = queueScheduleProducer|| null;
@@ -67,10 +69,10 @@ class LogAgent extends EventEmitter{
         this._interval = null;
         this._nowRun = nowRun;
 
-        if(this._alarm !== null && !(this._alarm.send instanceof Function )){
+        if(this._alarm && !(this._alarm.send instanceof Function )){
             throw new Error('Alarm 启用失败，请检查参数！');
         }
-        if(this._queueScheduleProducer !== null && !(this._queueScheduleProducer.addData instanceof Function)){
+        if(this._queueScheduleProducer && !(this._queueScheduleProducer.addData instanceof Function)){
             throw new Error('KafKa 启用失败，请检查参数！');
         }
         this.fileLog = new FileLog({
@@ -81,6 +83,8 @@ class LogAgent extends EventEmitter{
             filterRegex,
             limit,
         });
+        this._needSend = this._alarm || this._queueScheduleProducer;
+        this._alarmTitle = alarmTitle;
 
  
         if(this._nowRun){
@@ -88,19 +92,32 @@ class LogAgent extends EventEmitter{
         }
     }
 
-    _doLoop(callback) {
+    _doParse(callback) {
         const that = this;
-        this.fileLog.run((err,list) => {
-            if(err){
+
+        this.fileLog.run(function(err,list) {
+            if(err) {
                 that.emit(LogAgent.READ_ERROR, err);
+                return callback(err);
             }
-            if(list && list.length > 0){
-                that._sendLogData(list);                
+            if(list && list.length > 0 && that._needSend) {
+                that._sendLogData(list, function() {
+                    callback(null, list);
+                });
+                return;
             }
-            if(callback instanceof Function){
-                callback(err, list);
-            }
+
+            callback(null, list);
         });
+    }
+    _loopTimer(callback) {
+        var that = this;
+        this._interval = setTimeout(function _callLoop() {
+            that._doParse(function(err, list) {
+                callback(err, list);
+                that._loopTimer(callback);
+            });
+        },that._reportInterval);
     }
 
     /**
@@ -108,12 +125,9 @@ class LogAgent extends EventEmitter{
      * 
      * @param {RunCallback=} callback 回调函数
      */  
-    run(callback){
-        var that = this;
-        this._doLoop(callback);
-        this._interval = setInterval(() => {
-            that._doLoop(callback);
-        },that._reportInterval);
+    run(callback = function() {}){
+        this._doParse(callback);
+        this._loopTimer(callback);
     }
   
     /**
@@ -129,22 +143,58 @@ class LogAgent extends EventEmitter{
     }
 
 
-    _sendLogData(param){
+    _sendLogData(logs, callback){
+        const _this = this;
+        let sendCount = 0;
         if(this._queueSchedule) {
-            this._queueScheduleProducer.addData(param);
+            sendCount++;
+        }
+        if(this._alarm) {
+            sendCount++;
+        }
+        let hasSend = 0;
+        function _finish() {
+            if (++hasSend === sendCount) {
+                callback();
+            }
+        }
+        if(this._queueSchedule) {
+            this._queueScheduleProducer.addData(logs, function(err) {
+                if (err) {
+                    _this.emit(LogAgent.SEND_LOG_ERROR, err);
+                    _finish();
+                    return;
+                }
+                _this.emit(LogAgent.SEND_LOG_OK, logs);
+                _finish();
+            });
         }
     
-        if(this._alarm !== null) {
-            this._alarm.send(JSON.stringify(param),() => {
-                // console.debug(JSON.stringify(param));
+        if(this._alarm) {
+            this._alarm.send(this._alarmTitle, JSON.stringify(logs),function(err) {
+                if (err) {
+                    _this.emit(LogAgent.SEND_LOG_ERROR, err);
+                    _finish();
+                    return;
+                }
+                _this.emit(LogAgent.SEND_LOG_OK, logs);
+                _finish();          
             });
         }
     }
 }
 
 /**
- * 发送报错触发LogError事件
+ * 读取日志出错事件
  */
 LogAgent.READ_ERROR = 'read.error';
+/**
+ * 发送日志出错事件
+ */
+LogAgent.SEND_LOG_ERROR = 'send.log.error';
+/**
+ * 发送日志成功事件
+ */
+LogAgent.SEND_LOG_OK = 'send.log.ok';
 
 module.exports = LogAgent;
