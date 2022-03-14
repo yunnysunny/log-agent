@@ -36,6 +36,8 @@
         * [.stop()](#LogAgent+stop)
     * _static_
         * [.READ_ERROR](#LogAgent.READ_ERROR)
+        * [.SEND_LOG_ERROR](#LogAgent.SEND_LOG_ERROR)
+        * [.SEND_LOG_OK](#LogAgent.SEND_LOG_OK)
 
 <a name="new_LogAgent_new"></a>
 
@@ -66,7 +68,19 @@
 <a name="LogAgent.READ_ERROR"></a>
 
 ### LogAgent.READ\_ERROR
-发送报错触发LogError事件
+读取日志出错事件
+
+**Kind**: static property of [<code>LogAgent</code>](#LogAgent)  
+<a name="LogAgent.SEND_LOG_ERROR"></a>
+
+### LogAgent.SEND\_LOG\_ERROR
+发送日志出错事件
+
+**Kind**: static property of [<code>LogAgent</code>](#LogAgent)  
+<a name="LogAgent.SEND_LOG_OK"></a>
+
+### LogAgent.SEND\_LOG\_OK
+发送日志成功事件
 
 **Kind**: static property of [<code>LogAgent</code>](#LogAgent)  
 <a name="LogAgent"></a>
@@ -81,6 +95,8 @@
         * [.stop()](#LogAgent+stop)
     * _static_
         * [.READ_ERROR](#LogAgent.READ_ERROR)
+        * [.SEND_LOG_ERROR](#LogAgent.SEND_LOG_ERROR)
+        * [.SEND_LOG_OK](#LogAgent.SEND_LOG_OK)
 
 <a name="new_LogAgent_new"></a>
 
@@ -111,7 +127,19 @@
 <a name="LogAgent.READ_ERROR"></a>
 
 ### LogAgent.READ\_ERROR
-发送报错触发LogError事件
+读取日志出错事件
+
+**Kind**: static property of [<code>LogAgent</code>](#LogAgent)  
+<a name="LogAgent.SEND_LOG_ERROR"></a>
+
+### LogAgent.SEND\_LOG\_ERROR
+发送日志出错事件
+
+**Kind**: static property of [<code>LogAgent</code>](#LogAgent)  
+<a name="LogAgent.SEND_LOG_OK"></a>
+
+### LogAgent.SEND\_LOG\_OK
+发送日志成功事件
 
 **Kind**: static property of [<code>LogAgent</code>](#LogAgent)  
 <a name="RunCallback"></a>
@@ -142,6 +170,7 @@
 | [nowRun] | <code>Boolean</code> | <code>false</code> | 选填，是否在初始化时启动 |
 | [reportInterval] | <code>Number</code> | <code>1000</code> | 选填，轮询间隔 |
 | [alarm] | <code>Object</code> |  | 选填，发送日志对象 参见[@yunnysunny/node-alarm](https://www.npmjs.com/package/@yunnysunny/node-alarm) |
+| [alarmTitle] | <code>String</code> | <code>&#x27;Error occured&#x27;</code> | 报警信息的标题 |
 
 <a name="LogObject"></a>
 
