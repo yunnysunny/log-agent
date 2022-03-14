@@ -15,7 +15,7 @@
 
 [![NPM](https://nodei.co/npm/log-agent.png?downloads=true)](https://nodei.co/npm/log-agent/) 
 
-本项目用于监听日志文件变动，并根据需求进行筛选、上报 kafka 或者通过邮件或者 IM 工具方式报警。
+本项目用于监听日志文件变动，可以对于读取到的日志做筛选，可以将日志通过  [queue-schedule](https://www.npmjs.com/package/queue-schedule) 或者 [@yunnysunny/node-alarm](https://www.npmjs.com/package/@yunnysunny/node-alarm) 工具进行日志转发。
 
 ## 安装
 
