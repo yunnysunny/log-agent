@@ -64,7 +64,7 @@ const agent = new LogAgent(config);
 agent.run(function(err, logs) {
     console.log(logs);
 });
-agent.stop();
+//agent.stop();// 停止收集日志
 ```
 
 ## 文档
