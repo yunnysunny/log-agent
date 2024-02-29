@@ -1,6 +1,6 @@
 {
   "name": "log-agent",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "用于监听日志文件变动，并根据需求进行筛选、上报 kafka 或者报警",
   "main": "index.js",
   "scripts": {
